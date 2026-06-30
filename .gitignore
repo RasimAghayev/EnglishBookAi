@@ -1,0 +1,7 @@
+# IDE / editor project files
+.idea/
+*.iml
+
+# OS cruft
+Thumbs.db
+.DS_Store
