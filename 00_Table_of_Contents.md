@@ -106,7 +106,7 @@ reference appendices; Part 10 is the **Final Mastery Test**.
 | 31 | `31_Question_Forms.md` | Questions (Wh / tag / negative / indirect / embedded) | ✅ |
 | 32 | `32_Relative_Clauses.md` | Relative Clauses (*who/whom/whose/which/that/where/when*) | ✅ |
 | 33 | `33_Linking_Structures.md` | Linking (*although / despite / because / however / moreover*) | ✅ |
-| 34 | `34_Advanced_Native_Structures.md` | *would rather, had better, be likely/about/due/meant to, no sooner…than* | ⬜ |
+| 34 | `34_Advanced_Native_Structures.md` | *would rather, had better, be likely/about/due/meant to, no sooner…than* | ✅ |
 | 35 | `35_Time_Expressions.md` | Time expressions in depth (*already/yet/still/just/by the time/ago…*) | ⬜ |
 
 ### 🟫 PART 6 — Most Confusing English Tenses
@@ -175,7 +175,7 @@ Per the Advanced-Grammar-Extensions spec, every new chapter **also** includes, a
 
 ## 🧭 Generation Plan (one file per `NEXT`)
 
-Status: **38 of 49 written.** Remaining: **11 chapters.**
+Status: **39 of 49 written.** Remaining: **10 chapters.**
 I generate **exactly one file per `NEXT`**, in this order (⬜ items only):
 
 ```
@@ -197,7 +197,7 @@ I generate **exactly one file per `NEXT`**, in this order (⬜ items only):
 [x] 31  Question Forms                                       ✅ done
 [x] 32  Relative Clauses                                     ✅ done
 [x] 33  Linking Structures                                   ✅ done
-[ ] 34  Advanced Native Structures
+[x] 34  Advanced Native Structures                           ✅ done
 [ ] 35  Time Expressions in Depth
 [ ] 36  Most Confusing English Tenses  (one big chapter)
 [ ] 37  Alternative Expressions & Register
