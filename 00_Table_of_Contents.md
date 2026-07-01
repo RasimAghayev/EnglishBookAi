@@ -127,7 +127,7 @@ reference appendices; Part 10 is the **Final Mastery Test**.
 | 40 | `40_200_Native_Transformations.md` | 200 native sentence transformations | ✅ |
 | 41 | `41_Translation_Speaking_Writing_Banks.md` | 100 translation · 100 speaking · 100 writing prompts | ✅ |
 | 42 | `42_Mixed_and_Advanced_Quizzes.md` | 50 mixed quizzes + 50 advanced quizzes | ✅ |
-| 43 | `43_CEFR_Roadmap_IELTS_Guide.md` | Ultimate CEFR Grammar Roadmap + IELTS Grammar Guide | ⬜ |
+| 43 | `43_CEFR_Roadmap_IELTS_Guide.md` | Ultimate CEFR Grammar Roadmap + IELTS Grammar Guide | ✅ |
 
 ### 🔷 PART 9 — Appendices & Reference
 | # | File | Lesson | |
@@ -175,7 +175,7 @@ Per the Advanced-Grammar-Extensions spec, every new chapter **also** includes, a
 
 ## 🧭 Generation Plan (one file per `NEXT`)
 
-Status: **47 of 49 written.** Remaining: **2 chapters.**
+Status: **48 of 49 written.** Remaining: **1 chapter.**
 I generate **exactly one file per `NEXT`**, in this order (⬜ items only):
 
 ```
@@ -206,7 +206,7 @@ I generate **exactly one file per `NEXT`**, in this order (⬜ items only):
 [x] 40  200 Native Transformations                          ✅ done
 [x] 41  Translation · Speaking · Writing Banks               ✅ done
 [x] 42  Mixed & Advanced Quizzes                             ✅ done
-[ ] 43  CEFR Roadmap & IELTS Guide
+[x] 43  CEFR Roadmap & IELTS Guide                           ✅ done
 [x] 44–48  Appendices (Mixed Review / Irregular / Signal Words / Glossary / Answer Keys)  ✅ done
 [ ] 49  Final Mastery Test (A1→C2)
 ```
