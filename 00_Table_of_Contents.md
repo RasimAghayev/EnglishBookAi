@@ -90,7 +90,7 @@ reference appendices; Part 10 is the **Final Mastery Test**.
 | 19 | `19_Modals_Possibility_Deduction.md` | *May, might, must, can't* — possibility & deduction | ✅ |
 | 20 | `20_Modals_Obligation.md` | *Must, have to, have got to, needn't* — obligation | ✅ |
 | 21 | `21_Modals_Advice_Expectation.md` | *Should, ought to, had better, be supposed to* — advice | ✅ |
-| 22 | `22_Modals_Will_Would_Shall.md` | *Will, would, shall* — volition, offers, predictions | ⬜ |
+| 22 | `22_Modals_Will_Would_Shall.md` | *Will, would, shall* — volition, offers, predictions | ✅ |
 | 23 | `23_Used_to_Would.md` | *Used to / be used to / get used to* — habit & familiarity | ✅ |
 
 ### 🟪 PART 5 — Special Structures & Advanced Applications
@@ -100,7 +100,7 @@ reference appendices; Part 10 is the **Final Mastery Test**.
 | 25 | `25_Tenses_in_Reported_Speech.md` | Reported Speech (backshift + exceptions) | ✅ |
 | 26 | `26_Tenses_in_Passive_Voice.md` | Passive Voice (all tenses + modal & continuous passive) | ✅ |
 | 27 | `27_Narrative_Tenses.md` | Narrative Tenses (storytelling combinations) | ✅ |
-| 28 | `28_There_Is_There_Are.md` | *There is / are / was / were / has been / have been* | ⬜ |
+| 28 | `28_There_Is_There_Are.md` | *There is / are / was / were / has been / have been* | ✅ |
 | 29 | `29_Wishes_Unreal_Past.md` | Wishes & unreal past (*wish / if only / would rather / it's time*) | ⬜ |
 | 30 | `30_Causative.md` | The Causative (*have/get something done; make / let / help*) | ⬜ |
 | 31 | `31_Question_Forms.md` | Questions (Wh / tag / negative / indirect / embedded) | ⬜ |
@@ -175,7 +175,7 @@ Per the Advanced-Grammar-Extensions spec, every new chapter **also** includes, a
 
 ## 🧭 Generation Plan (one file per `NEXT`)
 
-Status: **31 of 49 written.** Remaining: **18 chapters.**
+Status: **33 of 49 written.** Remaining: **16 chapters.**
 I generate **exactly one file per `NEXT`**, in this order (⬜ items only):
 
 ```
@@ -188,10 +188,10 @@ I generate **exactly one file per `NEXT`**, in this order (⬜ items only):
 [x] 19  Modals — Possibility & Deduction                     ✅ done
 [x] 20  Modals — Obligation ✅ done
 [x] 21  Modals — Advice & Expectation ✅ done
-[ ] 22  Modals — Will / Would / Shall
+[x] 22  Modals — Will / Would / Shall                        ✅ done
 [x] 23  Used to / be used to / get used to                   ✅ done (be/get-used-to to expand)
 [x] 24–27  Conditionals / Reported / Passive / Narrative      ✅ done
-[ ] 28  There is / There are
+[x] 28  There is / There are                                 ✅ done
 [ ] 29  Wishes & Unreal Past
 [ ] 30  The Causative
 [ ] 31  Question Forms
