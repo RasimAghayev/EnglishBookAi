@@ -141,7 +141,7 @@ reference appendices; Part 10 is the **Final Mastery Test**.
 ### 🏁 PART 10 — Final Assessment
 | # | File | Lesson | |
 |---|------|--------|---|
-| 49 | `49_Final_Mastery_Test.md` | Final Mastery Test (A1→C2) + self-assessment | ⬜ |
+| 49 | `49_Final_Mastery_Test.md` | Final Mastery Test (A1→C2) + self-assessment | ✅ |
 
 ---
 
@@ -175,7 +175,7 @@ Per the Advanced-Grammar-Extensions spec, every new chapter **also** includes, a
 
 ## 🧭 Generation Plan (one file per `NEXT`)
 
-Status: **48 of 49 written.** Remaining: **1 chapter.**
+Status: **49 of 49 written.** 🎉 **BOOK COMPLETE!** Remaining: **0 chapters.**
 I generate **exactly one file per `NEXT`**, in this order (⬜ items only):
 
 ```
@@ -208,7 +208,7 @@ I generate **exactly one file per `NEXT`**, in this order (⬜ items only):
 [x] 42  Mixed & Advanced Quizzes                             ✅ done
 [x] 43  CEFR Roadmap & IELTS Guide                           ✅ done
 [x] 44–48  Appendices (Mixed Review / Irregular / Signal Words / Glossary / Answer Keys)  ✅ done
-[ ] 49  Final Mastery Test (A1→C2)
+[x] 49  Final Mastery Test (A1→C2)                           ✅ done
 ```
 
 > ⚠️ **Restructure note (for maintainers):** the original 27-file plan was renumbered to this
