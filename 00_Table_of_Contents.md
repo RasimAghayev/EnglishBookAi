@@ -122,7 +122,7 @@ reference appendices; Part 10 is the **Final Mastery Test**.
 ### 🔶 PART 8 — Final Master Review
 | # | File | Lesson | |
 |---|------|--------|---|
-| 38 | `38_Master_Comparison_Charts.md` | Complete tense & grammar comparison charts + Ultimate Cheat Sheet + Timeline Sheet | ⬜ |
+| 38 | `38_Master_Comparison_Charts.md` | Complete tense & grammar comparison charts + Ultimate Cheat Sheet + Timeline Sheet | ✅ |
 | 39 | `39_100_Common_Mistakes.md` | 100 most common learner mistakes (with fixes) | ⬜ |
 | 40 | `40_200_Native_Transformations.md` | 200 native sentence transformations | ⬜ |
 | 41 | `41_Translation_Speaking_Writing_Banks.md` | 100 translation · 100 speaking · 100 writing prompts | ⬜ |
@@ -175,7 +175,7 @@ Per the Advanced-Grammar-Extensions spec, every new chapter **also** includes, a
 
 ## 🧭 Generation Plan (one file per `NEXT`)
 
-Status: **42 of 49 written.** Remaining: **7 chapters.**
+Status: **43 of 49 written.** Remaining: **6 chapters.**
 I generate **exactly one file per `NEXT`**, in this order (⬜ items only):
 
 ```
@@ -201,7 +201,7 @@ I generate **exactly one file per `NEXT`**, in this order (⬜ items only):
 [x] 35  Time Expressions in Depth                            ✅ done
 [x] 36  Most Confusing English Tenses  (one big chapter)     ✅ done
 [x] 37  Alternative Expressions & Register                   ✅ done
-[ ] 38  Master Comparison Charts & Cheat Sheets
+[x] 38  Master Comparison Charts & Cheat Sheets              ✅ done
 [ ] 39  100 Common Mistakes
 [ ] 40  200 Native Transformations
 [ ] 41  Translation · Speaking · Writing Banks
