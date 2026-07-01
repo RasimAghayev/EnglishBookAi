@@ -125,7 +125,7 @@ reference appendices; Part 10 is the **Final Mastery Test**.
 | 38 | `38_Master_Comparison_Charts.md` | Complete tense & grammar comparison charts + Ultimate Cheat Sheet + Timeline Sheet | ✅ |
 | 39 | `39_100_Common_Mistakes.md` | 100 most common learner mistakes (with fixes) | ✅ |
 | 40 | `40_200_Native_Transformations.md` | 200 native sentence transformations | ✅ |
-| 41 | `41_Translation_Speaking_Writing_Banks.md` | 100 translation · 100 speaking · 100 writing prompts | ⬜ |
+| 41 | `41_Translation_Speaking_Writing_Banks.md` | 100 translation · 100 speaking · 100 writing prompts | ✅ |
 | 42 | `42_Mixed_and_Advanced_Quizzes.md` | 50 mixed quizzes + 50 advanced quizzes | ⬜ |
 | 43 | `43_CEFR_Roadmap_IELTS_Guide.md` | Ultimate CEFR Grammar Roadmap + IELTS Grammar Guide | ⬜ |
 
@@ -175,7 +175,7 @@ Per the Advanced-Grammar-Extensions spec, every new chapter **also** includes, a
 
 ## 🧭 Generation Plan (one file per `NEXT`)
 
-Status: **45 of 49 written.** Remaining: **4 chapters.**
+Status: **46 of 49 written.** Remaining: **3 chapters.**
 I generate **exactly one file per `NEXT`**, in this order (⬜ items only):
 
 ```
@@ -204,7 +204,7 @@ I generate **exactly one file per `NEXT`**, in this order (⬜ items only):
 [x] 38  Master Comparison Charts & Cheat Sheets              ✅ done
 [x] 39  100 Common Mistakes                                  ✅ done
 [x] 40  200 Native Transformations                          ✅ done
-[ ] 41  Translation · Speaking · Writing Banks
+[x] 41  Translation · Speaking · Writing Banks               ✅ done
 [ ] 42  Mixed & Advanced Quizzes
 [ ] 43  CEFR Roadmap & IELTS Guide
 [x] 44–48  Appendices (Mixed Review / Irregular / Signal Words / Glossary / Answer Keys)  ✅ done
