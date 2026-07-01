@@ -112,12 +112,12 @@ reference appendices; Part 10 is the **Final Mastery Test**.
 ### 🟫 PART 6 — Most Confusing English Tenses
 | # | File | Lesson | |
 |---|------|--------|---|
-| 36 | `36_Most_Confusing_Tenses.md` | ≈19 side-by-side comparisons (full treatment per pair) | ⬜ |
+| 36 | `36_Most_Confusing_Tenses.md` | ≈19 side-by-side comparisons (full treatment per pair) | ✅ |
 
 ### ⬛ PART 7 — Alternative Expressions & Register
 | # | File | Lesson | |
 |---|------|--------|---|
-| 37 | `37_Alternative_Expressions.md` | Many ways to say one thing: formal/informal/native/business/academic/IELTS/AmE/BrE | ⬜ |
+| 37 | `37_Alternative_Expressions.md` | Many ways to say one thing: formal/informal/native/business/academic/IELTS/AmE/BrE | ✅ |
 
 ### 🔶 PART 8 — Final Master Review
 | # | File | Lesson | |
@@ -175,7 +175,7 @@ Per the Advanced-Grammar-Extensions spec, every new chapter **also** includes, a
 
 ## 🧭 Generation Plan (one file per `NEXT`)
 
-Status: **40 of 49 written.** Remaining: **9 chapters.**
+Status: **42 of 49 written.** Remaining: **7 chapters.**
 I generate **exactly one file per `NEXT`**, in this order (⬜ items only):
 
 ```
@@ -199,8 +199,8 @@ I generate **exactly one file per `NEXT`**, in this order (⬜ items only):
 [x] 33  Linking Structures                                   ✅ done
 [x] 34  Advanced Native Structures                           ✅ done
 [x] 35  Time Expressions in Depth                            ✅ done
-[ ] 36  Most Confusing English Tenses  (one big chapter)
-[ ] 37  Alternative Expressions & Register
+[x] 36  Most Confusing English Tenses  (one big chapter)     ✅ done
+[x] 37  Alternative Expressions & Register                   ✅ done
 [ ] 38  Master Comparison Charts & Cheat Sheets
 [ ] 39  100 Common Mistakes
 [ ] 40  200 Native Transformations
