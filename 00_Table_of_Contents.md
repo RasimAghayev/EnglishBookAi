@@ -107,7 +107,7 @@ reference appendices; Part 10 is the **Final Mastery Test**.
 | 32 | `32_Relative_Clauses.md` | Relative Clauses (*who/whom/whose/which/that/where/when*) | ✅ |
 | 33 | `33_Linking_Structures.md` | Linking (*although / despite / because / however / moreover*) | ✅ |
 | 34 | `34_Advanced_Native_Structures.md` | *would rather, had better, be likely/about/due/meant to, no sooner…than* | ✅ |
-| 35 | `35_Time_Expressions.md` | Time expressions in depth (*already/yet/still/just/by the time/ago…*) | ⬜ |
+| 35 | `35_Time_Expressions.md` | Time expressions in depth (*already/yet/still/just/by the time/ago…*) | ✅ |
 
 ### 🟫 PART 6 — Most Confusing English Tenses
 | # | File | Lesson | |
@@ -175,7 +175,7 @@ Per the Advanced-Grammar-Extensions spec, every new chapter **also** includes, a
 
 ## 🧭 Generation Plan (one file per `NEXT`)
 
-Status: **39 of 49 written.** Remaining: **10 chapters.**
+Status: **40 of 49 written.** Remaining: **9 chapters.**
 I generate **exactly one file per `NEXT`**, in this order (⬜ items only):
 
 ```
@@ -198,7 +198,7 @@ I generate **exactly one file per `NEXT`**, in this order (⬜ items only):
 [x] 32  Relative Clauses                                     ✅ done
 [x] 33  Linking Structures                                   ✅ done
 [x] 34  Advanced Native Structures                           ✅ done
-[ ] 35  Time Expressions in Depth
+[x] 35  Time Expressions in Depth                            ✅ done
 [ ] 36  Most Confusing English Tenses  (one big chapter)
 [ ] 37  Alternative Expressions & Register
 [ ] 38  Master Comparison Charts & Cheat Sheets
