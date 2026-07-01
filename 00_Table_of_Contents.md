@@ -103,7 +103,7 @@ reference appendices; Part 10 is the **Final Mastery Test**.
 | 28 | `28_There_Is_There_Are.md` | *There is / are / was / were / has been / have been* | ✅ |
 | 29 | `29_Wishes_Unreal_Past.md` | Wishes & unreal past (*wish / if only / would rather / it's time*) | ✅ |
 | 30 | `30_Causative.md` | The Causative (*have/get something done; make / let / help*) | ✅ |
-| 31 | `31_Question_Forms.md` | Questions (Wh / tag / negative / indirect / embedded) | ⬜ |
+| 31 | `31_Question_Forms.md` | Questions (Wh / tag / negative / indirect / embedded) | ✅ |
 | 32 | `32_Relative_Clauses.md` | Relative Clauses (*who/whom/whose/which/that/where/when*) | ⬜ |
 | 33 | `33_Linking_Structures.md` | Linking (*although / despite / because / however / moreover*) | ⬜ |
 | 34 | `34_Advanced_Native_Structures.md` | *would rather, had better, be likely/about/due/meant to, no sooner…than* | ⬜ |
@@ -175,7 +175,7 @@ Per the Advanced-Grammar-Extensions spec, every new chapter **also** includes, a
 
 ## 🧭 Generation Plan (one file per `NEXT`)
 
-Status: **35 of 49 written.** Remaining: **14 chapters.**
+Status: **36 of 49 written.** Remaining: **13 chapters.**
 I generate **exactly one file per `NEXT`**, in this order (⬜ items only):
 
 ```
@@ -194,7 +194,7 @@ I generate **exactly one file per `NEXT`**, in this order (⬜ items only):
 [x] 28  There is / There are                                 ✅ done
 [x] 29  Wishes & Unreal Past                                 ✅ done
 [x] 30  The Causative                                        ✅ done
-[ ] 31  Question Forms
+[x] 31  Question Forms                                       ✅ done
 [ ] 32  Relative Clauses
 [ ] 33  Linking Structures
 [ ] 34  Advanced Native Structures
