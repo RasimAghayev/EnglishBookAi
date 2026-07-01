@@ -105,7 +105,7 @@ reference appendices; Part 10 is the **Final Mastery Test**.
 | 30 | `30_Causative.md` | The Causative (*have/get something done; make / let / help*) | ✅ |
 | 31 | `31_Question_Forms.md` | Questions (Wh / tag / negative / indirect / embedded) | ✅ |
 | 32 | `32_Relative_Clauses.md` | Relative Clauses (*who/whom/whose/which/that/where/when*) | ✅ |
-| 33 | `33_Linking_Structures.md` | Linking (*although / despite / because / however / moreover*) | ⬜ |
+| 33 | `33_Linking_Structures.md` | Linking (*although / despite / because / however / moreover*) | ✅ |
 | 34 | `34_Advanced_Native_Structures.md` | *would rather, had better, be likely/about/due/meant to, no sooner…than* | ⬜ |
 | 35 | `35_Time_Expressions.md` | Time expressions in depth (*already/yet/still/just/by the time/ago…*) | ⬜ |
 
@@ -175,7 +175,7 @@ Per the Advanced-Grammar-Extensions spec, every new chapter **also** includes, a
 
 ## 🧭 Generation Plan (one file per `NEXT`)
 
-Status: **37 of 49 written.** Remaining: **12 chapters.**
+Status: **38 of 49 written.** Remaining: **11 chapters.**
 I generate **exactly one file per `NEXT`**, in this order (⬜ items only):
 
 ```
@@ -196,7 +196,7 @@ I generate **exactly one file per `NEXT`**, in this order (⬜ items only):
 [x] 30  The Causative                                        ✅ done
 [x] 31  Question Forms                                       ✅ done
 [x] 32  Relative Clauses                                     ✅ done
-[ ] 33  Linking Structures
+[x] 33  Linking Structures                                   ✅ done
 [ ] 34  Advanced Native Structures
 [ ] 35  Time Expressions in Depth
 [ ] 36  Most Confusing English Tenses  (one big chapter)
