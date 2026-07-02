@@ -1487,4 +1487,6 @@ one (Continuous). The most important skill is **choosing between them** — reme
 
 **NEXT → Chapter 05: Present Perfect (*the "have + V3" tense — past with a present link*).** 🔗
 
+> 🧭 **Navigate:** [🏠 Contents](00_Table_of_Contents.md) · [⬅️ Ch 03 · Present Simple](03_Present_Simple.md) · [Ch 05 · Present Perfect ➡️](05_Present_Perfect.md)
+
 > **Commands:** `NEXT` · `REWRITE` · `EXPAND` · `EXAMPLES` · `QUIZ` · `STORY` · `END`

@@ -890,4 +890,6 @@ You've now tested **everything** — 50 mixed (B1–B2) and 50 advanced (C1–C2
 
 **NEXT → Chapter 43: CEFR Roadmap & IELTS Guide (*A1→C2 + band descriptors*).** 🗺️
 
+> 🧭 **Navigate:** [🏠 Contents](00_Table_of_Contents.md) · [⬅️ Ch 41 · Translation Speaking Writing Banks](41_Translation_Speaking_Writing_Banks.md) · [Ch 43 · CEFR Roadmap IELTS Guide ➡️](43_CEFR_Roadmap_IELTS_Guide.md)
+
 > **Commands:** `NEXT` · `REWRITE` · `EXPAND` · `EXAMPLES` · `QUIZ` · `STORY` · `END`

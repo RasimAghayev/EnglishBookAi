@@ -1018,4 +1018,6 @@ You now have the **100 most common mistakes** sorted into **ten families** — a
 
 **NEXT → Chapter 40: 200 Native Transformations (*textbook → natural*).** 🔄
 
+> 🧭 **Navigate:** [🏠 Contents](00_Table_of_Contents.md) · [⬅️ Ch 38 · Master Comparison Charts](38_Master_Comparison_Charts.md) · [Ch 40 · 200 Native Transformations ➡️](40_200_Native_Transformations.md)
+
 > **Commands:** `NEXT` · `REWRITE` · `EXPAND` · `EXAMPLES` · `QUIZ` · `STORY` · `END`

@@ -1679,4 +1679,6 @@ flying"*) and use the **Present Continuous** for fixed **arrangements** (*"I'm m
 
 **NEXT → Chapter 15: Future Perfect (*will have + V3 — "by then, I'll have finished"*).** 🏁
 
+> 🧭 **Navigate:** [🏠 Contents](00_Table_of_Contents.md) · [⬅️ Ch 13 · Present Forms for Future](13_Present_Forms_for_Future.md) · [Ch 15 · Future Perfect ➡️](15_Future_Perfect.md)
+
 > **Commands:** `NEXT` · `REWRITE` · `EXPAND` · `EXAMPLES` · `QUIZ` · `STORY` · `END`

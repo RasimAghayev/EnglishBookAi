@@ -1072,4 +1072,6 @@ thing didn't happen) and *shouldn't have done* (the bad thing did) — and you k
 
 **NEXT → Chapter 22: Modals — Will, Would & Shall (*volition, offers, predictions, polite requests*).** ✅
 
+> 🧭 **Navigate:** [🏠 Contents](00_Table_of_Contents.md) · [⬅️ Ch 20 · Modals Obligation](20_Modals_Obligation.md) · [Ch 22 · Modals Will Would Shall ➡️](22_Modals_Will_Would_Shall.md)
+
 > **Commands:** `NEXT` · `REWRITE` · `EXPAND` · `EXAMPLES` · `QUIZ` · `STORY` · `END`

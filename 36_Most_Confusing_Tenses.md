@@ -1090,4 +1090,6 @@ You now have a **decision toolkit** for the tenses learners mix up most. The tri
 
 **NEXT → Chapter 37: Alternative Expressions & Register (*one idea, many voices*).** 🗣️
 
+> 🧭 **Navigate:** [🏠 Contents](00_Table_of_Contents.md) · [⬅️ Ch 35 · Time Expressions](35_Time_Expressions.md) · [Ch 37 · Alternative Expressions ➡️](37_Alternative_Expressions.md)
+
 > **Commands:** `NEXT` · `REWRITE` · `EXPAND` · `EXAMPLES` · `QUIZ` · `STORY` · `END`

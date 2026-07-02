@@ -1074,4 +1074,6 @@ You can now **turn the register dial** to match any audience and purpose. Englis
 
 **NEXT → Chapter 38: Master Comparison Charts & Cheat Sheets (*everything on one map*).** 📊
 
+> 🧭 **Navigate:** [🏠 Contents](00_Table_of_Contents.md) · [⬅️ Ch 36 · Most Confusing Tenses](36_Most_Confusing_Tenses.md) · [Ch 38 · Master Comparison Charts ➡️](38_Master_Comparison_Charts.md)
+
 > **Commands:** `NEXT` · `REWRITE` · `EXPAND` · `EXAMPLES` · `QUIZ` · `STORY` · `END`

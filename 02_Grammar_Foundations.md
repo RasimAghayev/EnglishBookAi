@@ -375,4 +375,6 @@ CEFR examples, vocabulary, idioms, a story, dialogues, and exercises.
 
 **NEXT → Chapter 03: Present Simple (*your first complete tense*).** 🟢
 
+> 🧭 **Navigate:** [🏠 Contents](00_Table_of_Contents.md) · [⬅️ Ch 01 · Introduction](01_Introduction.md) · [Ch 03 · Present Simple ➡️](03_Present_Simple.md)
+
 > **Commands:** `NEXT` · `REWRITE` · `EXPAND` · `EXAMPLES` · `QUIZ` · `STORY` · `END`

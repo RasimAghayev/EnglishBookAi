@@ -1042,4 +1042,6 @@ You can now speak about **what isn't real.** English signals the unreal by stepp
 
 **NEXT → Chapter 30: The Causative (*have/get something done; make · let · help*).** 🛠️
 
+> 🧭 **Navigate:** [🏠 Contents](00_Table_of_Contents.md) · [⬅️ Ch 28 · There Is There Are](28_There_Is_There_Are.md) · [Ch 30 · Causative ➡️](30_Causative.md)
+
 > **Commands:** `NEXT` · `REWRITE` · `EXPAND` · `EXAMPLES` · `QUIZ` · `STORY` · `END`

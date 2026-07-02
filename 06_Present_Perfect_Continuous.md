@@ -1501,4 +1501,6 @@ You have completed **all four Present Tenses**:
 
 **NEXT → Chapter 07: Past Simple (*V2 — the past form*) — PART 2 begins.** ⏮️
 
+> 🧭 **Navigate:** [🏠 Contents](00_Table_of_Contents.md) · [⬅️ Ch 05 · Present Perfect](05_Present_Perfect.md) · [Ch 07 · Past Simple ➡️](07_Past_Simple.md)
+
 > **Commands:** `NEXT` · `REWRITE` · `EXPAND` · `EXAMPLES` · `QUIZ` · `STORY` · `END`

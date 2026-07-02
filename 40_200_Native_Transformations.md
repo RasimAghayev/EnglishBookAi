@@ -1104,4 +1104,6 @@ You now have **200 upgrades** from *correct* to *natural*, sorted into **10 nati
 
 **NEXT → Chapter 41: Translation · Speaking · Writing Banks (*100 + 100 + 100 prompts*).** ✍️
 
+> 🧭 **Navigate:** [🏠 Contents](00_Table_of_Contents.md) · [⬅️ Ch 39 · 100 Common Mistakes](39_100_Common_Mistakes.md) · [Ch 41 · Translation Speaking Writing Banks ➡️](41_Translation_Speaking_Writing_Banks.md)
+
 > **Commands:** `NEXT` · `REWRITE` · `EXPAND` · `EXAMPLES` · `QUIZ` · `STORY` · `END`

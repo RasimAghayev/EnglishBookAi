@@ -261,4 +261,6 @@ This is the toolbox we'll use in every single tense.
 
 **NEXT → Chapter 02: Grammar Foundations (*subjects · verbs · helping verbs · V1/V2/V3/V-ing*).** 🧰
 
+> 🧭 **Navigate:** [🏠 Contents](00_Table_of_Contents.md) · [Ch 02 · Grammar Foundations ➡️](02_Grammar_Foundations.md)
+
 > **Commands:** `NEXT` · `REWRITE` · `EXPAND` · `EXAMPLES` · `QUIZ` · `STORY` · `END`

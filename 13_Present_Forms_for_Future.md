@@ -1075,4 +1075,6 @@ deep-analysis tasks). 🗓️
 
 **NEXT → Chapter 14: Future Continuous — "This time tomorrow, I'll be flying."** 🛫
 
+> 🧭 **Navigate:** [🏠 Contents](00_Table_of_Contents.md) · [⬅️ Ch 12 · Future Going To](12_Future_Going_To.md) · [Ch 14 · Future Continuous ➡️](14_Future_Continuous.md)
+
 > **Commands:** `NEXT` · `REWRITE` · `EXPAND` · `EXAMPLES` · `QUIZ` · `STORY` · `END`

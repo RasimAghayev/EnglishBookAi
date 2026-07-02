@@ -1067,4 +1067,6 @@ You can now **introduce existence** the way English really does it. *There* is a
 
 **NEXT → Chapter 29: Wishes & Unreal Past (*wish · if only · would rather · it's time*).** 🌙
 
+> 🧭 **Navigate:** [🏠 Contents](00_Table_of_Contents.md) · [⬅️ Ch 27 · Narrative Tenses](27_Narrative_Tenses.md) · [Ch 29 · Wishes Unreal Past ➡️](29_Wishes_Unreal_Past.md)
+
 > **Commands:** `NEXT` · `REWRITE` · `EXPAND` · `EXAMPLES` · `QUIZ` · `STORY` · `END`

@@ -802,4 +802,6 @@ job. Whenever a term puzzles you, return here. 📖
 
 **NEXT → Chapter 48: Consolidated Answer Keys.** ✅
 
+> 🧭 **Navigate:** [🏠 Contents](00_Table_of_Contents.md) · [⬅️ Ch 46 · Signal Words Master List](46_Signal_Words_Master_List.md) · [Ch 48 · Answer Keys ➡️](48_Answer_Keys.md)
+
 > **Commands:** `NEXT` · `REWRITE` · `EXPAND` · `EXAMPLES` · `QUIZ` · `STORY` · `END`

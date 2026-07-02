@@ -761,4 +761,6 @@ answer alone isn't enough. 🗝️
 
 **NEXT → Chapter 49: Final Mastery Test (A1 → C2).** 🏆
 
+> 🧭 **Navigate:** [🏠 Contents](00_Table_of_Contents.md) · [⬅️ Ch 47 · Glossary](47_Glossary.md) · [Ch 49 · Final Mastery Test ➡️](49_Final_Mastery_Test.md)
+
 > **Commands:** `NEXT` · `REWRITE` · `EXPAND` · `EXAMPLES` · `QUIZ` · `STORY` · `END`

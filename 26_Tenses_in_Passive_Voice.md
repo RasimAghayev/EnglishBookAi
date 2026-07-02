@@ -1645,4 +1645,6 @@ V2**, **don't forget BE**, **intransitive verbs have no passive**). You met the 
 
 **NEXT → Chapter 27: Narrative Tenses — combining tenses to tell a story.** 📖
 
+> 🧭 **Navigate:** [🏠 Contents](00_Table_of_Contents.md) · [⬅️ Ch 25 · Tenses in Reported Speech](25_Tenses_in_Reported_Speech.md) · [Ch 27 · Narrative Tenses ➡️](27_Narrative_Tenses.md)
+
 > **Commands:** `NEXT` · `REWRITE` · `EXPAND` · `EXAMPLES` · `QUIZ` · `STORY` · `END`

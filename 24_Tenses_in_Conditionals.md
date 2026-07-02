@@ -1650,4 +1650,6 @@ if-clause**), the **were-for-everyone** subjunctive, the **comma rule**, and **"
 
 **NEXT → Chapter 25: Tenses in Reported Speech (backshift) — "She said she *was* tired."** 🗣️
 
+> 🧭 **Navigate:** [🏠 Contents](00_Table_of_Contents.md) · [⬅️ Ch 23 · Used to Would](23_Used_to_Would.md) · [Ch 25 · Tenses in Reported Speech ➡️](25_Tenses_in_Reported_Speech.md)
+
 > **Commands:** `NEXT` · `REWRITE` · `EXPAND` · `EXAMPLES` · `QUIZ` · `STORY` · `END`

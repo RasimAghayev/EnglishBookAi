@@ -1644,4 +1644,6 @@ graduated"*). The magic word is **by** + a future deadline, and the form is **wi
 
 **NEXT → Chapter 16: Future Perfect Continuous (*will have been + V-ing — "by June, I'll have been working for 5 years"*).** 🏆
 
+> 🧭 **Navigate:** [🏠 Contents](00_Table_of_Contents.md) · [⬅️ Ch 14 · Future Continuous](14_Future_Continuous.md) · [Ch 16 · Future Perfect Continuous ➡️](16_Future_Perfect_Continuous.md)
+
 > **Commands:** `NEXT` · `REWRITE` · `EXPAND` · `EXAMPLES` · `QUIZ` · `STORY` · `END`

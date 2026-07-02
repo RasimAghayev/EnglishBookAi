@@ -998,4 +998,6 @@ You now hold the **whole map on one page.** Every English tense is one **time** 
 
 **NEXT → Chapter 39: 100 Common Mistakes (*with fixes*).** 🚑
 
+> 🧭 **Navigate:** [🏠 Contents](00_Table_of_Contents.md) · [⬅️ Ch 37 · Alternative Expressions](37_Alternative_Expressions.md) · [Ch 39 · 100 Common Mistakes ➡️](39_100_Common_Mistakes.md)
+
 > **Commands:** `NEXT` · `REWRITE` · `EXPAND` · `EXAMPLES` · `QUIZ` · `STORY` · `END`

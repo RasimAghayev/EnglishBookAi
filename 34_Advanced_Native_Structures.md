@@ -1069,4 +1069,6 @@ You can now reach for the structures that lift English from correct to **native.
 
 **NEXT → Chapter 35: Time Expressions in Depth (*already · yet · still · just · for/since · by the time*).** ⏱️
 
+> 🧭 **Navigate:** [🏠 Contents](00_Table_of_Contents.md) · [⬅️ Ch 33 · Linking Structures](33_Linking_Structures.md) · [Ch 35 · Time Expressions ➡️](35_Time_Expressions.md)
+
 > **Commands:** `NEXT` · `REWRITE` · `EXPAND` · `EXAMPLES` · `QUIZ` · `STORY` · `END`

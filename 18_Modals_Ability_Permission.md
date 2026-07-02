@@ -1149,4 +1149,6 @@ and prohibition (*can't · may not · mustn't*). You also worked through the fou
 
 **NEXT → Chapter 19: Modals — Possibility & Deduction (*may / might / could / must / can't*).** 🔎
 
+> 🧭 **Navigate:** [🏠 Contents](00_Table_of_Contents.md) · [⬅️ Ch 17 · Future in the Past](17_Future_in_the_Past.md) · [Ch 19 · Modals Possibility Deduction ➡️](19_Modals_Possibility_Deduction.md)
+
 > **Commands:** `NEXT` · `REWRITE` · `EXPAND` · `EXAMPLES` · `QUIZ` · `STORY` · `END`

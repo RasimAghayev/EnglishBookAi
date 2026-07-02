@@ -1053,4 +1053,6 @@ You can now **weave extra information into a noun.** A relative clause follows t
 
 **NEXT → Chapter 33: Linking Structures (*although · despite · because · however · moreover*).** 🪢
 
+> 🧭 **Navigate:** [🏠 Contents](00_Table_of_Contents.md) · [⬅️ Ch 31 · Question Forms](31_Question_Forms.md) · [Ch 33 · Linking Structures ➡️](33_Linking_Structures.md)
+
 > **Commands:** `NEXT` · `REWRITE` · `EXPAND` · `EXAMPLES` · `QUIZ` · `STORY` · `END`

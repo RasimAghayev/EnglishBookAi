@@ -1048,4 +1048,6 @@ You now have three **production banks** — the bridge from *knowing* to *doing*
 
 **NEXT → Chapter 42: Mixed & Advanced Quizzes (*50 + 50*).** 🧩
 
+> 🧭 **Navigate:** [🏠 Contents](00_Table_of_Contents.md) · [⬅️ Ch 40 · 200 Native Transformations](40_200_Native_Transformations.md) · [Ch 42 · Mixed and Advanced Quizzes ➡️](42_Mixed_and_Advanced_Quizzes.md)
+
 > **Commands:** `NEXT` · `REWRITE` · `EXPAND` · `EXAMPLES` · `QUIZ` · `STORY` · `END`

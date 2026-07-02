@@ -1267,4 +1267,6 @@ it's always ***"must have"***, never *"must of"*. The four standard sections rou
 
 **NEXT → Chapter 20: Modals — Obligation & Necessity (*must / have to / have got to / needn't*).** ✅
 
+> 🧭 **Navigate:** [🏠 Contents](00_Table_of_Contents.md) · [⬅️ Ch 18 · Modals Ability Permission](18_Modals_Ability_Permission.md) · [Ch 20 · Modals Obligation ➡️](20_Modals_Obligation.md)
+
 > **Commands:** `NEXT` · `REWRITE` · `EXPAND` · `EXAMPLES` · `QUIZ` · `STORY` · `END`

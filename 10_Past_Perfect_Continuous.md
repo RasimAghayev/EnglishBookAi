@@ -1660,4 +1660,6 @@ Past Simple (the result/moment)**. Remember: *had been + V-ing*, the helper **ne
 
 **NEXT → Chapter 11: Future Simple (*will / be going to*) — PART 3 begins.** 🔮
 
+> 🧭 **Navigate:** [🏠 Contents](00_Table_of_Contents.md) · [⬅️ Ch 09 · Past Perfect](09_Past_Perfect.md) · [Ch 11 · Future Simple ➡️](11_Future_Simple.md)
+
 > **Commands:** `NEXT` · `REWRITE` · `EXPAND` · `EXAMPLES` · `QUIZ` · `STORY` · `END`
