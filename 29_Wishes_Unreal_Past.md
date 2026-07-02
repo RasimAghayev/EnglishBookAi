@@ -37,8 +37,8 @@ Real English sentences use present tense for the present. But **unreal** English
         the further back the tense →  the more "unreal" the meaning
 ```
 
-> 🧠 **The key mental move:** in a wish, a **past-tense verb points at the present**, and a **past-perfect verb points at the past.** The tense is not about *time* — it's about *truth*. This is the same "unreal past" that powers the 2nd and 3rd conditionals (Ch.24).
-> 🇦🇿 *Əsas fikir: arzuda **keçmiş fel indini**, **past perfect keçmişi** göstərir. Zaman deyil, **reallıq** məsələsidir — bu, 2-ci və 3-cü şərt cümlələrindəki "unreal past" ilə eynidir (Ch.24).*
+> 🧠 **The key mental move:** in a wish, a **past-tense verb points at the present**, and a **past-perfect verb points at the past.** The tense is not about *time* — it's about *truth*. This is the same "unreal past" that powers the 2nd and 3rd conditionals (**[Ch.24 — Conditionals](24_Tenses_in_Conditionals.md)**).
+> 🇦🇿 *Əsas fikir: arzuda **keçmiş fel indini**, **past perfect keçmişi** göstərir. Zaman deyil, **reallıq** məsələsidir — bu, 2-ci və 3-cü şərt cümlələrindəki "unreal past" ilə eynidir ([Ch.24](24_Tenses_in_Conditionals.md)).*
 
 ---
 

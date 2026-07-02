@@ -1040,6 +1040,8 @@ The passive isn't only a full verb — it appears as **to be + V3** and **being 
 ## E4 · CAUSATIVE — *have / get something done* 🛠️
 This is **not** the ordinary passive — it means **you arrange for someone else to do it for you.**
 
+> 📚 **Related —** this is a preview; the causative has its own full chapter with *make / let / help* and all its quirks: **[Chapter 30 — The Causative](30_Causative.md)**. 🇦🇿 *Bu qısa baxışdır; kauzativin tam fəsli (make/let/help daxil) Ch.30-dadır.*
+
 ```
    STRUCTURE:  have / get  +  [thing]  +  V3
    I had my hair cut.            (a hairdresser cut it — I arranged it)
