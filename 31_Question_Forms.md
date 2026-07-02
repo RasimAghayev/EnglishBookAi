@@ -154,6 +154,8 @@ A statement + a mini-question tag. **The rule of opposites:** a **positive** sta
 
 When a question sits **inside** another sentence (after *Could you tell me…, I wonder…, Do you know…*), it stops looking like a question: **statement word order, no *do*, no inversion.**
 
+> 📚 **Related —** an embedded question is really a *reported question* — the same word-order flip and tense-backshift you meet in **[Chapter 25 — Reported Speech](25_Tenses_in_Reported_Speech.md)**. 🇦🇿 *Daxili sual əslində dolayı sualdır — söz sırası və backshift Ch.25-dəki ilə eynidir.*
+
 ```
    DIRECT:    "Where  IS  the station?"          (inverted)
    INDIRECT:  "Could you tell me where the station  IS?"   (statement order — no inversion)

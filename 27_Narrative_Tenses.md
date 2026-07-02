@@ -1010,7 +1010,7 @@ narration:
 
 ## E3 · `would` & `used to` inside a story — recurring past 🔁
 To describe **repeated** actions that formed the *backdrop* of a story (not single events), use
-**would / used to** (👉 Chapter 15):
+**would / used to** (👉 taught in full in **[Chapter 23 — Used to / Would](23_Used_to_Would.md)**):
 
 ```
    "That summer, we WOULD wake at dawn. Grandma USED TO make tea on the old stove,

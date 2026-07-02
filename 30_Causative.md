@@ -136,6 +136,8 @@ These two put a **person** in the middle and take a **bare infinitive** (no *to*
 
 ## 🔄 PASSIVE quirks — *make* grows a *to*, *let* disappears
 
+> 📚 **Related —** this is the passive of *make / let / help*; the complete passive-voice system (every tense) is in **[Chapter 26 — Passive Voice](26_Tenses_in_Passive_Voice.md)**. 🇦🇿 *Bu, make/let/help-in passividir; bütün zamanların tam passiv sistemi Ch.26-dadır.*
+
 The passive forms have two famous surprises:
 
 ```

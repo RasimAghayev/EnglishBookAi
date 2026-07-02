@@ -52,6 +52,8 @@ future** at that moment.
 > 🔑 Future-in-the-past is the natural language of **stories, memories and reported speech** —
 > anywhere the "now" of the sentence sits in the past. 🇦🇿 Hekayə, xatirə və dolayı nitqin dilidir.
 
+> 💡 **Quick Reminder —** the *will → would* change is exactly the **backshift** of reported speech; it is explained in full in **[Chapter 25 — Reported Speech](25_Tenses_in_Reported_Speech.md)**. 🇦🇿 *"will → would" dəyişməsi dolayı nitqdəki **backshift**dir — tam izahı Ch.25-dədir.*
+
 ---
 
 ## 3. 🌍 Real-life situations / Həyati vəziyyətlər

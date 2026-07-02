@@ -67,6 +67,8 @@ A time expression is not just decoration — it **points to a tense**. Match the
 
 These four cluster around the **present perfect** and the idea of "up to now." Each has a distinct job:
 
+> 📖 **Prerequisite —** if the present perfect itself is still shaky, review its master chapter first: **[Chapter 05 — Present Perfect](05_Present_Perfect.md)**. 🇦🇿 *Present perfect özü hələ dumanlıdırsa, əvvəlcə əsas fəslə bax: Ch.05.*
+
 ```
    ALREADY  →  it happened, sooner than expected (positive)   "I've ALREADY eaten."
    YET      →  up to now — in questions & negatives            "Have you eaten YET?" / "Not YET."
