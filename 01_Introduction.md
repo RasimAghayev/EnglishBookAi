@@ -259,4 +259,6 @@ Take a breath. Trust the process. We go **one step at a time**.
 (*be / do / have*), and the all-important verb forms `V1 / V2 / V3 / V-ing`.
 This is the toolbox we'll use in every single tense.
 
-*Type* **`NEXT`** *to continue.*
+**NEXT → Chapter 02: Grammar Foundations (*subjects · verbs · helping verbs · V1/V2/V3/V-ing*).** 🧰
+
+> **Commands:** `NEXT` · `REWRITE` · `EXPAND` · `EXAMPLES` · `QUIZ` · `STORY` · `END`

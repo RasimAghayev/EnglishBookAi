@@ -1693,12 +1693,10 @@ and **be going to** for plans and evidence. The two questions that decide it: *D
 before?* and *Belief or visible evidence?* Remember: **V1 only**, and **present simple in time
 clauses**. 🔮
 
-```
- NEXT  → Chapter 12: Future with Going To (be going to + V1 — plans & predictions)
-         then Chapter 13: Present forms for the future ("I'm meeting Ali at 6")
- Commands: NEXT · REWRITE · EXPAND · EXAMPLES · QUIZ · STORY · END
-```
-
 > **Təbriklər!** 🎉 PART 3 (Gələcək Zamanlar) başladı! İndi gələcəyi iki cür ifadə edə
 > bilirsən: **will** (qərar, proqnoz, söz) və **be going to** (plan, dəlil). Növbəti dayanacaq —
 > gələcək üçün davamedici formalar və "arrangements". 🚀
+
+**NEXT → Chapter 12: Future with Going To (*be going to + V1 — plans & predictions*)** — then Chapter 13 (present forms for the future). 🗓️
+
+> **Commands:** `NEXT` · `REWRITE` · `EXPAND` · `EXAMPLES` · `QUIZ` · `STORY` · `END`

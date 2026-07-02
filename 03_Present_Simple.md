@@ -1457,9 +1457,8 @@ dəqiq bilir.
 You now know the **Present Simple** — the backbone of everyday English. Practice the
 **-s** until it's automatic, and speak your routine out loud every day.
 
-```
- NEXT  → Chapter 04: Present Continuous (the "right now / -ing" tense)
- Commands: NEXT · REWRITE · EXPAND · EXAMPLES · QUIZ · STORY · END
-```
-
 > **Afərin!** Birinci tam zamanı bitirdin. İndi *Present Continuous*-a keçirik. 🚀
+
+**NEXT → Chapter 04: Present Continuous (*the "right now / -ing" tense*).** 🔄
+
+> **Commands:** `NEXT` · `REWRITE` · `EXPAND` · `EXAMPLES` · `QUIZ` · `STORY` · `END`

@@ -1654,11 +1654,10 @@ Past Simple (the result/moment)**. Remember: *had been + V-ing*, the helper **ne
  └─────────────────────────────────────────────────────────────┘
 ```
 
-```
- NEXT  → PART 3, Chapter 11: Future Simple (will / be going to — talking about the future)
- Commands: NEXT · REWRITE · EXPAND · EXAMPLES · QUIZ · STORY · END
-```
-
 > **Təbriklər!** 🎉 PART 2 (Keçmiş Zamanlar) tamamlandı! İndi istənilən keçmiş hekayəni tam
 > zaman çeşidi ilə danışa bilərsən: fon, hadisələr, keçmişdən-əvvəlki keçmiş və müddət. İndi
 > **PART 3 — Gələcək Zamanlar**a keçirik. 🚀
+
+**NEXT → Chapter 11: Future Simple (*will / be going to*) — PART 3 begins.** 🔮
+
+> **Commands:** `NEXT` · `REWRITE` · `EXPAND` · `EXAMPLES` · `QUIZ` · `STORY` · `END`

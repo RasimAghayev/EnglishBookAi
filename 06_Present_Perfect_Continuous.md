@@ -1496,10 +1496,9 @@ You have completed **all four Present Tenses**:
    work          am working        have worked      have been working
 ```
 
-```
- NEXT  → Chapter 07: Past Simple (the start of PART 2 — Past Tenses)
- Commands: NEXT · REWRITE · EXPAND · EXAMPLES · QUIZ · STORY · END
-```
-
 > **Təbriklər! PART 1 bitdi!** 🎉 Bütün indiki zamanları öyrəndin. İndi keçmişə səyahət
 > başlayır — *Past Simple*-dan. 🚀
+
+**NEXT → Chapter 07: Past Simple (*V2 — the past form*) — PART 2 begins.** ⏮️
+
+> **Commands:** `NEXT` · `REWRITE` · `EXPAND` · `EXAMPLES` · `QUIZ` · `STORY` · `END`

@@ -1704,10 +1704,9 @@ etdi. Çöldə axşam günəşi relslərin üstündə batırdı və o gün ilk d
 You can now **set the scene** and show **interruptions** in the past — the heart of natural
 storytelling. The magic combo: **Past Continuous (background) + Past Simple (event)**.
 
-```
- NEXT  → Chapter 09: Past Perfect (had + V3 — the "past before the past")
- Commands: NEXT · REWRITE · EXPAND · EXAMPLES · QUIZ · STORY · END
-```
-
 > **Afərin!** İndi keçmişdə səhnə qura və "kəsilən hərəkətləri" göstərə bilirsən. İndi
 > *Past Perfect* — "keçmişdən əvvəlki keçmiş"ə keçirik. 🚀
+
+**NEXT → Chapter 09: Past Perfect (*had + V3 — the "past before the past"*).** ⏪
+
+> **Commands:** `NEXT` · `REWRITE` · `EXPAND` · `EXAMPLES` · `QUIZ` · `STORY` · `END`

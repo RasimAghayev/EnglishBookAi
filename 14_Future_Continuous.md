@@ -1673,11 +1673,10 @@ flying"*) and use the **Present Continuous** for fixed **arrangements** (*"I'm m
 6"*). You now control **four** future forms: **will · going to · Present Continuous · will be +
 -ing**. 🛫
 
-```
- NEXT  → Chapter 15: Future Perfect (will have + V3 — "by then, I'll have finished")
- Commands: NEXT · REWRITE · EXPAND · EXAMPLES · QUIZ · STORY · END
-```
-
 > **Afərin!** İndi gələcəyin bir anında **davam edəcək** hərəkəti təsvir edə bilirsən və
 > **razılaşmalar** üçün Present Continuous-dan istifadə edə bilirsən. Növbəti dayanacaq —
 > *Future Perfect* (will have + V3): "o vaxta qədər bitirmiş olacağam". 🚀
+
+**NEXT → Chapter 15: Future Perfect (*will have + V3 — "by then, I'll have finished"*).** 🏁
+
+> **Commands:** `NEXT` · `REWRITE` · `EXPAND` · `EXAMPLES` · `QUIZ` · `STORY` · `END`
