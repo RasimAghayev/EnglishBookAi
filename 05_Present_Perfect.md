@@ -152,7 +152,7 @@ Helper: **have / has**.
 ## 7. 📜 Grammar Rules
 
 1. **Use V3 (past participle), not V2.** ❌ *I have went.* → ✅ *I have **gone**.*
-   (For regular verbs V2 = V3 = -ed; for irregular verbs they differ — see Ch. 23.)
+   (For regular verbs V2 = V3 = -ed; for irregular verbs they differ — see Ch. 45.)
 2. **has** for he/she/it; **have** for everyone else.
 3. **Never use a finished-time word** (yesterday, last year, in 2010, two days ago)
    with the Present Perfect. Those need **Past Simple**.
@@ -189,7 +189,7 @@ Irregular verbs: **you must memorize V3** (often different from V2):
 | be | was/were | **been** | olmaq |
 | have | had | **had** | sahib olmaq |
 
-> 📌 The **full irregular list (V1/V2/V3 + IPA)** is in **Chapter 23**. Learn them in
+> 📌 The **full irregular list (V1/V2/V3 + IPA)** is in **Chapter 45**. Learn them in
 > small groups — you'll meet them again and again.
 
 ---

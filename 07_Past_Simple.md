@@ -295,7 +295,7 @@ The **-ed** ending has **three** pronunciations: /t/, /d/, /ɪd/.
    - *I **was** a student* → *Mən tələbə **idim**.*
 
 4. **Irregular verbs are the real work.** Azerbaijani has no V2/V3 split — you must
-   **memorize** English irregular forms (Chapter 23).
+   **memorize** English irregular forms (Chapter 45).
 
 > 💡 **Strategy:** when you see *yesterday / last / ago / in [year]* → switch your brain to
 > **Past Simple** automatically.
@@ -470,13 +470,13 @@ connected to now**.
 *did* already carries the past, so the main verb returns to **V1**: *didn't go.*
 
 **Q3: How do I know a verb's V2?**
-Regular → +ed. Irregular → memorize (Chapter 23). When unsure, check the list.
+Regular → +ed. Irregular → memorize (Chapter 45). When unsure, check the list.
 
 **Q4: Do I use "did" with "was/were"?**
 **No.** *to be* makes its own negatives/questions: *wasn't / weren't / Was…? / Were…?*
 
 **Q5: Is "used to" the same as Past Simple?**
-*used to* stresses a **past habit/state that stopped** (Chapter 17). *I used to smoke* ≈
+*used to* stresses a **past habit/state that stopped** (Chapter 23). *I used to smoke* ≈
 *I smoked (regularly) but not now.*
 
 ---
@@ -632,7 +632,7 @@ Regular → +ed. Irregular → memorize (Chapter 23). When unsure, check the lis
 | 30 | think | thought | /θɔːt/ | v | düşünmək | I **thought** so. |
 
 > 📌 These are **30 of the most common irregular verbs**. Master these and you can tell
-> almost any story. The **full list** is in **Chapter 23**.
+> almost any story. The **full list** is in **Chapter 45**.
 
 ---
 
@@ -1015,7 +1015,7 @@ present/future** situations — NOT the past. This is huge for B2+.
 
 > ⚠️ In careful/formal English, use **were** (not *was*) for all subjects in unreal
 > sentences: *If I **were** you · I wish she **were** here.* (*was* is common in casual speech.)
-> 🔎 Full treatment in **Chapter 18 — Conditionals**.
+> 🔎 Full treatment in **Chapter 24 — Conditionals**.
 
 ---
 
@@ -1041,7 +1041,7 @@ present/future** situations — NOT the past. This is huge for B2+.
 
 ## E4. 🔁 Past Habits: Past Simple vs. used to vs. would (preview)
 
-Three ways to express repeated past actions (full lesson in **Chapter 17**):
+Three ways to express repeated past actions (full lesson in **Chapter 23**):
 
 | Form | Example | Note |
 |------|---------|------|
@@ -1108,7 +1108,7 @@ Group irregulars by pattern — far easier than memorizing randomly:
 ```
 
 > 🧠 Learn **one family per day**. By the end of the month, you'll own ~150 irregulars.
-> The complete reference list is in **Chapter 23**.
+> The complete reference list is in **Chapter 45**.
 
 ---
 

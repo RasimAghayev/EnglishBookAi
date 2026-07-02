@@ -1145,7 +1145,7 @@ belong.*
 |------|-----|---------|
 | **going to be + V-ing** | in-progress future (intention flavour) — less common | This time tomorrow, I'**m going to be** travelling. |
 | **was/were going to be + V-ing** | a future-continuous plan seen from the **past** | I knew that by 9 I **would be waiting** / *was going to be waiting*. |
-| **would be + V-ing** | future-in-the-past continuous (Ch. 14) | She promised she **would be waiting** at the gate. |
+| **would be + V-ing** | future-in-the-past continuous (Ch. 17) | She promised she **would be waiting** at the gate. |
 
 > 💡 For most situations, **will be + -ing** is the standard. *going to be + -ing* exists but
 > sounds heavier — prefer *will be + -ing* unless you want to stress a prior plan.
@@ -1652,7 +1652,7 @@ Və gələcəyin harasında, o gecə artıq onları gözləyirdi.
   conditions.
 - **will (predictions/promises):** *"we'll come back", "I'll find a way", "things would change…
   they would keep"* (the last two are **future-in-the-past** — *will* seen from the past
-  narration, Ch. 14 preview).
+  narration, Ch. 17 preview).
 - **The contrast in action:** the friends **imagine ongoing future scenes** with *will be +
   -ing*; they **make a firm plan** to meet; they **promise** with *will*. Three future tools,
   one rooftop. ✅

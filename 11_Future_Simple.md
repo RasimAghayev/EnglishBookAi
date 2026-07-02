@@ -262,7 +262,7 @@ There are **no special endings** to add — the main verb stays in its **base fo
 | **be going to** | an **intention** (maybe not arranged yet) | I'**m going to** meet Ali soon. |
 | **will** | a decision **now** / prediction | I'**ll** meet him if he calls. |
 
-> ⏭️ The Present Continuous for future **arrangements** is the next chapter (Ch. 12). Preview:
+> ⏭️ The Present Continuous for future **arrangements** is coming up (Ch. 13). Preview:
 > *"I'm flying to Baku on Monday"* (ticket booked) feels more **fixed** than *"I'm going to
 > fly to Baku."*
 
@@ -824,7 +824,7 @@ getdi.
   scene, two forms — exactly §11.
 - **Time clause:** *"when I **finish** my studies, I'**ll** come back"* → present simple after
   *when*, will in the main clause. ✅
-- **Bonus:** *"she **would** reply"* is **future-in-the-past** (Ch. 14 preview) — *will* seen
+- **Bonus:** *"she **would** reply"* is **future-in-the-past** (Ch. 17 preview) — *will* seen
   from a past viewpoint.
 
 > 🗣️ **Mini-task:** find **two** *going to* sentences (plans) and **two** *will* sentences
@@ -1040,7 +1040,7 @@ For **real, possible future** conditions, use **if + present simple** in one cla
 | If we **hurry**, | we **won't miss** it. |
 
 > ⚠️ Never put *will* in the **if-clause**: ❌ *If it **will rain**…* → ✅ *If it **rains**…*
-> 🇦🇿 *"Yağış yağsa, evdə qalacağıq."* (Full first conditional = Ch. 17/18.)
+> 🇦🇿 *"Yağış yağsa, evdə qalacağıq."* (Full first conditional = Ch. 24.)
 
 ---
 
@@ -1057,7 +1057,7 @@ clause only:
 | **Before** you **leave**, | I'**ll** give you the keys. |
 | **After** the film **ends**, | we'**ll** eat. |
 | **Until** he **apologises**, | I **won't** speak to him. |
-| **By the time** you **read** this, | I'**ll have** left. *(future perfect, Ch. 13)* |
+| **By the time** you **read** this, | I'**ll have** left. *(future perfect, Ch. 15)* |
 
 ```
    ⛔ when I WILL arrive        ✅ when I arrive
@@ -1114,7 +1114,7 @@ English has **several** future forms. Here's the overview (some are later chapte
 |------|-----|---------|
 | **will + V1** | decision now · prediction · promise | I'**ll** call you. |
 | **be going to + V1** | plan/intention · evidence | I'**m going to** travel. |
-| **Present Continuous** | fixed **arrangement** (Ch. 12) | I'**m meeting** Ali at 6. |
+| **Present Continuous** | fixed **arrangement** (Ch. 13) | I'**m meeting** Ali at 6. |
 | **Present Simple** | timetable/schedule (E9) | The train **leaves** at 9. |
 | **be about to / due to** | very near future (E6) | We'**re about to** start. |
 

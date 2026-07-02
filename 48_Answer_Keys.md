@@ -138,7 +138,7 @@ then read your band: 🇦🇿 *Faizini hesabla, sonra zolağını oxu.*
 | use narrative tenses, reported speech, passive, conditional 3 & mixed | **C1** |
 | choose any tense automatically, including subtle aspect/voice nuance | **C2** |
 
-> 🇦🇿 Bu, təxmini bir cədvəldir — dəqiq imtahan deyil. Əsl yoxlama **Chapter 25: Final Mastery
+> 🇦🇿 Bu, təxmini bir cədvəldir — dəqiq imtahan deyil. Əsl yoxlama **Chapter 49: Final Mastery
 > Test**-dədir.
 
 ---
@@ -507,7 +507,7 @@ Tick a box when you've finished a chapter **and** logged its errors (§4):
      40. Don't worry, I won't forget. 41. I'll text you when I arrive. 42. Shall I open the window?
 ```
 
-### Chapter 12 — Future Continuous
+### Chapter 14 — Future Continuous
 ```
  A) 1. will be watching 2. will be flying 3. Will…be using 4. will be driving 5. won't be working
     6. will be having 7. Will…be joining 8. will be having
@@ -537,7 +537,7 @@ Tick a box when you've finished a chapter **and** logged its errors (§4):
      39. Don't call now — they'll be having dinner. 40. I won't be working this weekend.
 ```
 
-### Chapter 13 — Future Perfect
+### Chapter 15 — Future Perfect
 ```
  A) 1. will have finished 2. will have left 3. will have changed 4. won't have read
     5. Will…have eaten 6. will have driven 7. will have built 8. will have delivered
@@ -567,7 +567,7 @@ Tick a box when you've finished a chapter **and** logged its errors (§4):
      41. They will have landed by now. 42. By 2026, the bridge will have been built.
 ```
 
-### Chapter 14 — Future Perfect Continuous
+### Chapter 16 — Future Perfect Continuous
 ```
  A) 1. will have been working 2. will have been living 3. will have been driving
     4. will have been waiting 5. Will…have been studying 6. won't have been waiting
@@ -585,7 +585,7 @@ Tick a box when you've finished a chapter **and** logged its errors (§4):
 
 ## 🟥 PART 4 — Special Forms & Advanced
 
-### Chapter 15 — Used to / Would
+### Chapter 23 — Used to / Would
 ```
  A) 1. used to (state) 2. used to / would (repeated) 3. used to (state) 4. used to (state)
     5. used to / would (repeated)
@@ -600,7 +600,7 @@ Tick a box when you've finished a chapter **and** logged its errors (§4):
     25. Every morning, Grandpa would wake at dawn, feed the chickens, and drink his tea on the porch.
 ```
 
-### Chapter 16 — Tenses in Conditionals
+### Chapter 24 — Tenses in Conditionals
 ```
  A) 1. heat / boils (zero) 2. rains / will cancel (first) 3. were / would apologize (second)
     4. had studied / would have passed (third) 5. leave / will catch (first)
@@ -617,7 +617,7 @@ Tick a box when you've finished a chapter **and** logged its errors (§4):
     25. If I were you, I'd take the job — it's a great opportunity.
 ```
 
-### Chapter 17 — Tenses in Reported Speech
+### Chapter 25 — Tenses in Reported Speech
 ```
  A) 1. He said (that) he was busy. 2. They said (that) they had finished.
     3. She said (that) she would help me. 4. He said (that) he could drive.
@@ -636,7 +636,7 @@ Tick a box when you've finished a chapter **and** logged its errors (§4):
     27. He told me to lock the door, and he promised he would pay me back.
 ```
 
-### Chapter 18 — Tenses in the Passive Voice
+### Chapter 26 — Tenses in the Passive Voice
 ```
  A) 1. Houses are built here. 2. My bike was stolen. 3. The room is being cleaned.
     4. The project has been finished. 5. The results will be announced. 6. A helmet must be worn.
@@ -652,7 +652,7 @@ Tick a box when you've finished a chapter **and** logged its errors (§4):
     30. My phone was stolen on the bus; the screen had been cracked and the case was scratched.
 ```
 
-### Chapter 19 — Narrative Tenses
+### Chapter 27 — Narrative Tenses
 ```
  A) 1. was walking / saw 2. arrived / had finished 3. was / had been working
     4. were playing / was cooking 5. had never flown / was
@@ -673,7 +673,7 @@ Tick a box when you've finished a chapter **and** logged its errors (§4):
 
 ## 🟪 PART 5 — Mastery & Reference
 
-### Chapter 20 — Mixed Tense Review
+### Chapter 44 — Mixed Tense Review
 ```
  A) 1. is raining 2. have lived 3. went 4. will have left 5. was sleeping / knocked
     6. had been studying 7. will be lying 8. boils 9. will have been working 10. have never been
@@ -688,7 +688,7 @@ Tick a box when you've finished a chapter **and** logged its errors (§4):
     31. The house was sold last year. 32. By next year, I will have graduated.
 ```
 
-### Chapter 21 — Irregular Verbs List
+### Chapter 45 — Irregular Verbs List
 ```
  A) 1. went / gone 2. bought / bought 3. wrote / written 4. cut / cut 5. came / come
     6. sang / sung 7. took / taken 8. thought / thought
@@ -702,7 +702,7 @@ Tick a box when you've finished a chapter **and** logged its errors (§4):
     30. They have drunk all the water.
 ```
 
-### Chapter 22 — Signal Words Master List
+### Chapter 46 — Signal Words Master List
 ```
  A) 1. Present Simple 2. Present Continuous 3. Past Simple 4. Present Perfect (Cont.)
     5. Future Perfect 6. Past Continuous 7. Present Perfect 8. Future Continuous
@@ -714,7 +714,7 @@ Tick a box when you've finished a chapter **and** logged its errors (§4):
     24. By next year, I will have finished/graduated university. 25. Look! It's raining.
 ```
 
-### Chapter 23 — Glossary
+### Chapter 47 — Glossary
 ```
  PRACTICE
  A) 1–b 2–d 3–a 4–c 5–e

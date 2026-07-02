@@ -726,7 +726,7 @@ The same idea is told in different tenses depending on the **kind of text**:
 
 ```
    STORYTELLING (narrative):  "She walked in. It was raining. She had forgotten her coat."
-                              → past tenses, layered (Ch 19)
+                              → past tenses, layered (Ch 27)
    NEWS / RECENT:             "A fire has broken out downtown."
                               → present perfect for fresh news
    SCIENCE / FACTS:           "Water boils at 100°C. The sample is heated."
@@ -804,7 +804,7 @@ conditional:
 ```
 🔑 After *wish, if only, it's time, would rather, as if/as though* (for unreal) → use **past
 simple** for present meaning, **past perfect** for past meaning.
-> 🧠 Same logic as conditionals (Ch 16): *the further from reality, the further back the tense.*
+> 🧠 Same logic as conditionals (Ch 24): *the further from reality, the further back the tense.*
 > 🇦🇿 *wish/it's time/would rather* → indiki üçün **past** forma (qeyri-real).
 
 ---
@@ -812,9 +812,9 @@ simple** for present meaning, **past perfect** for past meaning.
 ## E10 · 🗺️ THE ULTIMATE TENSE-PICKER (detailed flowchart)
 ```
  ┌─ 1. Is it a CONDITION (if…) or REPORTED speech or PASSIVE? ──────────────────┐
- │     if-clause → no will/would inside (Ch 16)                                  │
- │     reported → backshift one step (Ch 17)                                     │
- │     passive  → be + V3 (Ch 18)                                                │
+ │     if-clause → no will/would inside (Ch 24)                                  │
+ │     reported → backshift one step (Ch 25)                                     │
+ │     passive  → be + V3 (Ch 26)                                                │
  └──────────────────────────────────────────────────────────────────────────────┘
         │ (otherwise, an ordinary statement…)
         ▼

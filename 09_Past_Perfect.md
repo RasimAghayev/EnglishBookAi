@@ -465,7 +465,7 @@ Model verb: **finish** (V3 = *finished*). Helper: **had** (same for **all** subj
 
 - **Quick explanations:** *"Sorry — I'd already made plans."*
 - **Storytelling flashbacks:** *"It reminded her of a summer she'd spent in Italy."*
-- **Regret / hindsight (often with wish/if only — see Ch. 17):** *"I wish I'd known."*
+- **Regret / hindsight (often with wish/if only — see Ch. 29):** *"I wish I'd known."*
 - **Emphatic "already":** *"By then, we'd had enough."*
 
 > 💡 Natives almost always **contract** it in speech: *I'd, you'd, he'd, we'd, they'd.* The
@@ -802,7 +802,7 @@ başladığını hiss etdi.
 - **The key contrast:** the **scene** (he opens the door, finds the letter) is Past **Simple**;
   everything that **happened before** he arrived (the move, the debts, her hiding) is Past
   **Perfect**. That's the whole point of Chapter 09. ⏪
-- **Bonus tense:** *"we **will have gone**"* inside the letter is **Future Perfect** (Ch. 16) —
+- **Bonus tense:** *"we **will have gone**"* inside the letter is **Future Perfect** (Ch. 15) —
   a sneak preview.
 - **Pattern to copy:** tell the **present scene** in Past Simple, then **step back** with *had
   + V3* to explain the backstory.
@@ -1028,7 +1028,7 @@ Simple **and** the Present Perfect both become **Past Perfect**.
 | "She **left** early." | He told me she **had left** early. |
 
 > 💡 Past Perfect is the **"end of the road"** for backshift — it doesn't shift any further.
-> (Full reported speech = Chapter 19.) 🇦🇿 *"...etmişdi" dedi.*
+> (Full reported speech = Chapter 25.) 🇦🇿 *"...etmişdi" dedi.*
 
 ---
 
@@ -1048,7 +1048,7 @@ Past Perfect is the engine of the **third conditional** — talking about an **u
 | If they **had left** earlier, | they **wouldn't have missed** it. | they left late |
 | If it **hadn't rained**, | we **would have gone** out. | it rained |
 
-> 📌 This is **regret / imagining a different past**. Full lesson in **Chapter 18** — but you
+> 📌 This is **regret / imagining a different past**. Full lesson in **Chapter 24** — but you
 > can already see why Past Perfect matters: it carries the **unreal past**. 🇦🇿 *"...etsəydim,
 > ...edərdim."*
 
@@ -1070,7 +1070,7 @@ To express **regret about the past** (wanting the past to have been different), 
    wish + Past Perfect → regret about PAST   ("I wish I had bought it." = I didn't buy it)
 ```
 
-> 🧠 **Key:** *wish + had + V3* = "I'm sorry the **past** went the way it did." (Chapter 17.)
+> 🧠 **Key:** *wish + had + V3* = "I'm sorry the **past** went the way it did." (Chapter 29.)
 
 ---
 

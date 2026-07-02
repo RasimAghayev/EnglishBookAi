@@ -1005,7 +1005,7 @@ shift back to the **Past Perfect Continuous**.
 | "She **was crying**." | He said she **had been crying**. |
 
 > 💡 Like the Past Perfect, this is the **"end of the road"** for backshift. (Full reported
-> speech = Ch. 19.) 🇦🇿 *"...işləyirdi" dedi.*
+> speech = Ch. 25.) 🇦🇿 *"...işləyirdi" dedi.*
 
 ---
 
