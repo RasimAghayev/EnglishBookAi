@@ -50,6 +50,11 @@ reference appendices; Part 10 is the **Final Mastery Test**.
 
 ## 📚 FULL TABLE OF CONTENTS  *(✅ = written · ⬜ = to be generated)*
 
+> 🔎 **Looking for one specific topic?** Don't scroll — use the **[Concept Index](Concept_Index.md)**.
+> It maps every concept to where it is *introduced · compared · reused · drilled · summarised · tested*
+> (e.g. *Present Perfect → introduced Ch.05 · compared Ch.36 · mistakes Ch.39 · tested Ch.49*).
+> 🇦🇿 *Konkret mövzu axtarırsan? Sürüşdürmə — [Konsept İndeksinə](Concept_Index.md) bax.*
+
 ### 🟦 PART 0 — Foundations (Before the Tenses)
 | # | File | Lesson | |
 |---|------|--------|---|
