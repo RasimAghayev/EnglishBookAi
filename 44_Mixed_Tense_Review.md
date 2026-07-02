@@ -12,7 +12,7 @@
 <details>
 <summary>📑 <b>On this page</b> — jump to any section (click to expand)</summary>
 
-- [🧭 Legend / İşarələrin mənası](#-legend--işarələrin-mənası)
+- [🧭 Legend / İşarələrin mənası](#legend)
 - **[1. 📌 How tenses are built — TIME × ASPECT](#1--how-tenses-are-built--time--aspect)**
 - **[2. 🎚️ The 4 ASPECTS — what each one MEANS (the heart of everything)](#2--the-4-aspects--what-each-one-means-the-heart-of-everything)**
 - **[3. 🌳 THE MASTER DECISION TREE — choose ANY tense](#3--the-master-decision-tree--choose-any-tense)**
@@ -27,7 +27,7 @@
 - **[🎯 CEFR EXAMPLES — A1 → C2 (MIXED tenses)](#-cefr-examples--a1--c2-mixed-tenses)**
 - **[📚 MINI STORY — *"A Life in Twelve Tenses"*](#-mini-story--a-life-in-twelve-tenses)**
   - [🇬🇧 A Life in Twelve Tenses](#-a-life-in-twelve-tenses)
-  - [🇦🇿 On İki Zamanda Bir Həyat *(translation)*](#-on-iki-zamanda-bir-həyat-translation)
+  - [🇦🇿 On İki Zamanda Bir Həyat *(translation)*](#on-iki-zamanda-bir-heyat)
   - [🔑 Story key — spot every tense](#-story-key--spot-every-tense)
   - [❓ Story questions](#-story-questions)
 - **[📝 BIG MIXED EXERCISES](#-big-mixed-exercises)**
@@ -77,6 +77,8 @@
   - [🏁 End of Chapter 44 — Appendices & Reference](#-end-of-chapter-44--appendices--reference)
 
 </details>
+
+<a id="legend"></a>
 
 ## 🧭 Legend / İşarələrin mənası
 ```
@@ -519,6 +521,8 @@ And the sea? The sea, she **will tell** you, **has been here** far longer than a
 **will still be here** long after we **are gone.**
 
 ---
+
+<a id="on-iki-zamanda-bir-heyat"></a>
 
 ## 🇦🇿 On İki Zamanda Bir Həyat *(translation)*
 
