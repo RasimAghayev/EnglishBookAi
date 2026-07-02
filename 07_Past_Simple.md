@@ -1521,10 +1521,9 @@ gözlənilməz bir qapı açdığı yağışlı çərşənbə axşamını xatır
 You've started **Part 2** and learned the backbone of all storytelling: the **Past Simple**.
 Keep memorizing irregular verbs — they're the key to fluent past narration.
 
-```
- NEXT  → Chapter 08: Past Continuous (was/were + V-ing — the "interrupted past")
- Commands: NEXT · REWRITE · EXPAND · EXAMPLES · QUIZ · STORY · END
-```
-
 > **Əla! Part 2 başladı.** Keçmişin onurğa sütununu — Past Simple-ı öyrəndin. İndi
 > *Past Continuous*-a keçirik. 🚀
+
+**NEXT → Chapter 08: Past Continuous (*was/were + V-ing — the "interrupted past"*).** 🎬
+
+> **Commands:** `NEXT` · `REWRITE` · `EXPAND` · `EXAMPLES` · `QUIZ` · `STORY` · `END`

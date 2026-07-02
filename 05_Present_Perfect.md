@@ -1449,10 +1449,9 @@ O, daha bir işi həll edib — və hələ səhər qəhvəsini də bitirməyib.
 You've crossed the **hardest bridge** in English grammar! 🌉 The secret is always the
 same question: **"Is it connected to NOW, or finished in the PAST?"**
 
-```
- NEXT  → Chapter 06: Present Perfect Continuous (have been + V-ing — "how long" in action)
- Commands: NEXT · REWRITE · EXPAND · EXAMPLES · QUIZ · STORY · END
-```
-
 > **Təbriklər!** İngilis qrammatikasının ən çətin körpüsünü keçdin. İndi *have been +
 > V-ing* — Present Perfect Continuous-a keçirik. 🚀
+
+**NEXT → Chapter 06: Present Perfect Continuous (*have been + V-ing — "how long" in action*).** ⏳
+
+> **Commands:** `NEXT` · `REWRITE` · `EXPAND` · `EXAMPLES` · `QUIZ` · `STORY` · `END`

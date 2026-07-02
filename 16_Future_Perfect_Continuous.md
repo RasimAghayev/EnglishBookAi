@@ -1729,12 +1729,11 @@ verbs**; **how long → -ing / how many → will have + V3**. ⏳🔮
  └─────────────────────────────────────────────────────────────────┘
 ```
 
-```
- NEXT  → Chapter 17: Future in the Past (would / was going to) — the future seen from the past
- Commands: NEXT · REWRITE · EXPAND · EXAMPLES · QUIZ · STORY · END
-```
-
 > **Təbriklər! 🎉🏆** İngilis dilinin **bütün 12 zamanını** tamamladın! İndi keçmiş, indiki və
 > gələcəyi — sadə, davamedici, bitmiş və davamedici-bitmiş formalarda — tam idarə edə bilirsən.
 > Növbəti fəsil (Chapter 17) **keçmişdən görünən gələcəkdir** (*would / was going to*). Sonra
 > PART 4 — **modal fellər** (can, must, should…), və PART 5 — şərt cümlələri, dolayı nitq, məchul növ. 🚀
+
+**NEXT → Chapter 17: Future in the Past (*would / was going to*) — the future seen from the past.** 🕰️
+
+> **Commands:** `NEXT` · `REWRITE` · `EXPAND` · `EXAMPLES` · `QUIZ` · `STORY` · `END`

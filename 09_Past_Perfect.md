@@ -1669,11 +1669,10 @@ You can now **step back in time** — showing which past action happened **first
 combo: **Past Perfect (earlier) + Past Simple (later)**. Remember: *had + V3*, the helper
 **never changes**, and **-mışdı ≈ had + V3**. ⏪
 
-```
- NEXT  → Chapter 10: Past Perfect Continuous (had been + V-ing — "how long, up to a past point")
- Commands: NEXT · REWRITE · EXPAND · EXAMPLES · QUIZ · STORY · END
-```
-
 > **Afərin!** İndi keçmişdə "əvvəl baş verən" hadisəni göstərə bilirsən. Növbəti dayanacaq —
 > *Past Perfect Continuous* (had been + V-ing): keçmiş bir nöqtəyə qədər **nə qədər müddət**
 > davam edən hərəkət. 🚀
+
+**NEXT → Chapter 10: Past Perfect Continuous (*had been + V-ing — "how long, up to a past point"*).** ⏳
+
+> **Commands:** `NEXT` · `REWRITE` · `EXPAND` · `EXAMPLES` · `QUIZ` · `STORY` · `END`

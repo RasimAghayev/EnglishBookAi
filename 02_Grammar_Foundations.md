@@ -373,4 +373,6 @@ Try these before moving on. **Answers are below — don't peek!**
 **Chapter 03 — Present Simple:** your first full tense lesson, with all 29 sections,
 CEFR examples, vocabulary, idioms, a story, dialogues, and exercises.
 
-*Type* **`NEXT`** *to begin the Present Simple.*
+**NEXT → Chapter 03: Present Simple (*your first complete tense*).** 🟢
+
+> **Commands:** `NEXT` · `REWRITE` · `EXPAND` · `EXAMPLES` · `QUIZ` · `STORY` · `END`

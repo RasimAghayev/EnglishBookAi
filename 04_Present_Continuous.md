@@ -1482,10 +1482,9 @@ You now control **both** present tenses: the **always** one (Simple) and the **r
 one (Continuous). The most important skill is **choosing between them** — remember the
 *"every day"* vs *"right now"* test.
 
-```
- NEXT  → Chapter 05: Present Perfect (the "have + V3" tense — past with a present link)
- Commands: NEXT · REWRITE · EXPAND · EXAMPLES · QUIZ · STORY · END
-```
-
 > **Əla iş!** İki indiki zamanı bitirdin. İndi keçmişlə indini birləşdirən
 > *Present Perfect*-ə keçirik. 🚀
+
+**NEXT → Chapter 05: Present Perfect (*the "have + V3" tense — past with a present link*).** 🔗
+
+> **Commands:** `NEXT` · `REWRITE` · `EXPAND` · `EXAMPLES` · `QUIZ` · `STORY` · `END`

@@ -1638,11 +1638,10 @@ You can now talk about an action **completed before a future point** (*"By 2030,
 graduated"*). The magic word is **by** + a future deadline, and the form is **will have + V3**
 (the helper **never changes**; **-mış olacaq ≈ will have + V3**). 🏁
 
-```
- NEXT  → Chapter 16: Future Perfect Continuous (will have been + V-ing — "by June, I'll have been working for 5 years")
- Commands: NEXT · REWRITE · EXPAND · EXAMPLES · QUIZ · STORY · END
-```
-
 > **Afərin!** İndi gələcək bir andan **əvvəl tamamlanacaq** hərəkəti ifadə edə bilirsən. Növbəti
 > dayanacaq — *Future Perfect Continuous* (will have been + V-ing): gələcək bir nöqtəyə qədər
 > **nə qədər müddət** davam edəcək hərəkət. 🚀
+
+**NEXT → Chapter 16: Future Perfect Continuous (*will have been + V-ing — "by June, I'll have been working for 5 years"*).** 🏆
+
+> **Commands:** `NEXT` · `REWRITE` · `EXPAND` · `EXAMPLES` · `QUIZ` · `STORY` · `END`
