@@ -19,6 +19,55 @@
 
 ---
 
+<details>
+<summary>📑 <b>On this page</b> — jump to any section (click to expand)</summary>
+
+- [🧭 THE BIG PICTURE — how to take this test](#-the-big-picture--how-to-take-this-test)
+- **[🟩 SECTION A1 (1–10)](#-section-a1-110)**
+- **[🟩 SECTION A2 (11–20)](#-section-a2-1120)**
+- **[🟦 SECTION B1 (21–30)](#-section-b1-2130)**
+- **[🟦 SECTION B2 (31–40)](#-section-b2-3140)**
+- **[🟪 SECTION C1 (41–50)](#-section-c1-4150)**
+- **[🟪 SECTION C2 (51–60)](#-section-c2-5160)**
+  - [✅ FINAL MASTERY TEST — FULL ANSWER KEY](#-final-mastery-test--full-answer-key)
+  - [📊 SCORING & LEVEL PLACEMENT](#-scoring--level-placement)
+  - [🅰️ §A — LEVEL DIFFERENCES (what each section proves)](#-a--level-differences-what-each-section-proves)
+  - [🅱️ §B — INSIGHT (on finishing — and never really finishing)](#-b--insight-on-finishing--and-never-really-finishing)
+  - [🅲 §C — ALTERNATIVE EXPRESSIONS (talking about finishing)](#-c--alternative-expressions-talking-about-finishing)
+  - [🅳 §D — DEEP-ANALYSIS TASKS](#-d--deep-analysis-tasks)
+- **[💪 PRACTICE BLOCK — Chapter 49 (a mini re-test, one per level)](#-practice-block--chapter-49-a-mini-re-test-one-per-level)**
+  - [✅ PRACTICE BLOCK — Answer Key](#-practice-block--answer-key)
+- **[📖 MINI STORY #1 — "The Last Page"](#-mini-story-1--the-last-page)**
+- **[🧨 EXPANSION PACK — After the Test: Lifelong Learning (E1–E12)](#-expansion-pack--after-the-test-lifelong-learning-e1e12)**
+  - [🅴1 — How to READ your section scores](#1--how-to-read-your-section-scores)
+  - [🅴2 — Building your personal NEXT-STEP plan](#2--building-your-personal-next-step-plan)
+  - [🅴3 — Self-assessing PRODUCTIVE skills (the test can't grade these)](#3--self-assessing-productive-skills-the-test-cant-grade-these)
+  - [🅴4 — SPEAKING self-test (record + rubric)](#4--speaking-self-test-record--rubric)
+  - [🅴5 — WRITING self-test (task + rubric)](#5--writing-self-test-task--rubric)
+  - [🅴6 — The RETAKE schedule](#6--the-retake-schedule)
+  - [🅴7 — MAINTAINING fluency (use it or lose it)](#7--maintaining-fluency-use-it-or-lose-it)
+  - [🅴8 — TEACHING to retain](#8--teaching-to-retain)
+  - [🅴9 — IMMERSION habits (feed the input)](#9--immersion-habits-feed-the-input)
+  - [🅴10 — Setting the NEXT goal](#10--setting-the-next-goal)
+  - [🅴11 — Common "final plateau" traps](#11--common-final-plateau-traps)
+  - [🅴12 — 🇦🇿 CONTRASTIVE SYNTHESIS (the whole book's threads, in one)](#12---contrastive-synthesis-the-whole-books-threads-in-one)
+- **[📚 SECOND CEFR EXAMPLE BANK — "prove it" at each level](#-second-cefr-example-bank--prove-it-at-each-level)**
+- **[🧪 EXTRA QUIZ — Cumulative Rapid Fire (15 Questions)](#-extra-quiz--cumulative-rapid-fire-15-questions)**
+  - [✅ EXTRA QUIZ — Answer Key](#-extra-quiz--answer-key)
+- **[🗂️ EXAMPLES MEGA-BANK — TEST B (a second, parallel test)](#-examples-mega-bank--test-b-a-second-parallel-test)**
+  - [📦 SET A1](#-set-a1)
+  - [📦 SET A2](#-set-a2)
+  - [📦 SET B1](#-set-b1)
+  - [📦 SET B2](#-set-b2)
+  - [📦 SET C1](#-set-c1)
+  - [📦 SET C2](#-set-c2)
+- **[📝 CHAPTER 49 QUIZ — Graduation Capstone (30 Questions)](#-chapter-49-quiz--graduation-capstone-30-questions)**
+  - [✅ CHAPTER 49 QUIZ — Answer Key](#-chapter-49-quiz--answer-key)
+- **[📖 MINI STORY #2 — "Graduation Day"](#-mini-story-2--graduation-day)**
+  - [🏁 End of Chapter 49 — and of the book](#-end-of-chapter-49--and-of-the-book)
+
+</details>
+
 ## 🧭 THE BIG PICTURE — how to take this test
 
 ```

@@ -20,6 +20,64 @@
 
 ---
 
+<details>
+<summary>📑 <b>On this page</b> — jump to any section (click to expand)</summary>
+
+- [🧭 THE BIG PICTURE — ten families, not a hundred problems](#-the-big-picture--ten-families-not-a-hundred-problems)
+- [① TENSES (1–10)](#-tenses-110)
+- [② ARTICLES — a / an / the / zero (11–20) 🇦🇿](#-articles--a--an--the--zero-1120-)
+- [③ PREPOSITIONS (21–30) 🇦🇿](#-prepositions-2130-)
+- [④ WORD ORDER (31–40)](#-word-order-3140)
+- [⑤ AGREEMENT & PLURALS (41–50)](#-agreement--plurals-4150)
+- [⑥ MODALS & CONDITIONALS (51–60)](#-modals--conditionals-5160)
+- [⑦ PRONOUNS & POSSESSIVES (61–70)](#-pronouns--possessives-6170)
+- [⑧ CONFUSED WORD PAIRS (71–80)](#-confused-word-pairs-7180)
+- [⑨ COUNTABLE / UNCOUNTABLE & QUANTIFIERS (81–90)](#-countable--uncountable--quantifiers-8190)
+- [⑩ MISC & 🇦🇿-INTERFERENCE (91–100)](#-misc---interference-91100)
+- [🔥 THE TOP 10 DEADLIEST (cost the most marks)](#-the-top-10-deadliest-cost-the-most-marks)
+- [🅰️ §A — LEVEL DIFFERENCES (which family bites at each level)](#-a--level-differences-which-family-bites-at-each-level)
+- [🅱️ §B — NATIVE-SPEAKER INSIGHT](#-b--native-speaker-insight)
+- [🅲 §C — ALTERNATIVE EXPRESSIONS (self-correction phrases)](#-c--alternative-expressions-self-correction-phrases)
+- [🅳 §D — DEEP-ANALYSIS TASKS](#-d--deep-analysis-tasks)
+- **[💪 PRACTICE BLOCK — Chapter 39](#-practice-block--chapter-39)**
+  - [✅ PRACTICE BLOCK — Answer Key](#-practice-block--answer-key)
+- **[📖 MINI STORY #1 — "The Job Application" (spot & fix the errors)](#-mini-story-1--the-job-application-spot--fix-the-errors)**
+- **[🧨 EXPANSION PACK — 100 Common Mistakes (E1–E12)](#-expansion-pack--100-common-mistakes-e1e12)**
+  - [🅴1 — The "NAME THE FAMILY" method](#1--the-name-the-family-method)
+  - [🅴2 — ARTICLES decision tree (the biggest 🇦🇿 family)](#2--articles-decision-tree-the-biggest--family)
+  - [🅴3 — PREPOSITION collocations (memorise as chunks)](#3--preposition-collocations-memorise-as-chunks)
+  - [🅴4 — SAY · TELL · SPEAK · TALK](#4--say--tell--speak--talk)
+  - [🅴5 — MAKE · DO collocations](#5--make--do-collocations)
+  - [🅴6 — -ED vs -ING adjectives (the *bored/boring* family)](#6---ed-vs--ing-adjectives-the-boredboring-family)
+  - [🅴7 — COUNTABLE / UNCOUNTABLE master](#7--countable--uncountable-master)
+  - [🅴8 — FALSE FRIENDS & 🇦🇿-interference words](#8--false-friends---interference-words)
+  - [🅴9 — COMPARATIVES & SUPERLATIVES errors](#9--comparatives--superlatives-errors)
+  - [🅴10 — DOUBLE NEGATIVES & tag errors](#10--double-negatives--tag-errors)
+  - [🅴11 — +20 BONUS mistakes (101–120)](#11--20-bonus-mistakes-101120)
+  - [🅴12 — 🇦🇿 CONTRASTIVE SYNTHESIS (why each family is hard)](#12---contrastive-synthesis-why-each-family-is-hard)
+- **[📚 SECOND CEFR EXAMPLE BANK — error → fix by level](#-second-cefr-example-bank--error--fix-by-level)**
+- **[🧪 EXTRA QUIZ — Find & Fix (15 Questions)](#-extra-quiz--find--fix-15-questions)**
+  - [✅ EXTRA QUIZ — Answer Key](#-extra-quiz--answer-key)
+- **[🗂️ EXAMPLES MEGA-BANK — ❌ → ✅ by family](#-examples-mega-bank-----by-family)**
+  - [📦 BLOCK 1 — ① tenses](#-block-1---tenses)
+  - [📦 BLOCK 2 — ② articles 🇦🇿](#-block-2---articles-)
+  - [📦 BLOCK 3 — ③ prepositions 🇦🇿](#-block-3---prepositions-)
+  - [📦 BLOCK 4 — ④ word order](#-block-4---word-order)
+  - [📦 BLOCK 5 — ⑤ agreement & plurals](#-block-5---agreement--plurals)
+  - [📦 BLOCK 6 — ⑥ modals & conditionals](#-block-6---modals--conditionals)
+  - [📦 BLOCK 7 — ⑦ pronouns & possessives](#-block-7---pronouns--possessives)
+  - [📦 BLOCK 8 — ⑧ confused word pairs](#-block-8---confused-word-pairs)
+  - [📦 BLOCK 9 — ⑨ countable / quantifiers](#-block-9---countable--quantifiers)
+  - [📦 BLOCK 10 — ⑩ -ed/-ing & false friends 🇦🇿](#-block-10----ed-ing--false-friends-)
+  - [📦 BLOCK 11 — ⚡ MINIMAL PAIRS — subtle right vs wrong](#-block-11---minimal-pairs--subtle-right-vs-wrong)
+  - [📦 BLOCK 12 — 🎬 REAL-LIFE — a corrected paragraph](#-block-12---real-life--a-corrected-paragraph)
+- **[📝 CHAPTER 39 QUIZ — Find & Fix (30 Questions)](#-chapter-39-quiz--find--fix-30-questions)**
+  - [✅ CHAPTER 39 QUIZ — Answer Key](#-chapter-39-quiz--answer-key)
+- **[📖 MINI STORY #2 — "The Holiday Email" (spot & fix the errors)](#-mini-story-2--the-holiday-email-spot--fix-the-errors)**
+  - [🏁 End of Chapter 39](#-end-of-chapter-39)
+
+</details>
+
 ## 🧭 THE BIG PICTURE — ten families, not a hundred problems
 
 ```

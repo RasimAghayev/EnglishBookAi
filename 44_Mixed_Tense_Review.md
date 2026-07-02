@@ -9,6 +9,75 @@
 
 ---
 
+<details>
+<summary>📑 <b>On this page</b> — jump to any section (click to expand)</summary>
+
+- [🧭 Legend / İşarələrin mənası](#-legend--işarələrin-mənası)
+- **[1. 📌 How tenses are built — TIME × ASPECT](#1--how-tenses-are-built--time--aspect)**
+- **[2. 🎚️ The 4 ASPECTS — what each one MEANS (the heart of everything)](#2--the-4-aspects--what-each-one-means-the-heart-of-everything)**
+- **[3. 🌳 THE MASTER DECISION TREE — choose ANY tense](#3--the-master-decision-tree--choose-any-tense)**
+- **[4. 🃏 ALL 12 TENSES — quick reference cards](#4--all-12-tenses--quick-reference-cards)**
+- **[5. 🥊 THE CONFUSABLE PAIRS — every tricky showdown in one place](#5--the-confusable-pairs--every-tricky-showdown-in-one-place)**
+- **[6. 🔔 SIGNAL WORDS MASTER GRID](#6--signal-words-master-grid)**
+- **[7. 🧊 THE STATE-VERB RULE (applies across ALL continuous tenses)](#7--the-state-verb-rule-applies-across-all-continuous-tenses)**
+- **[8. 🔁 ONE VERB, ALL 12 FORMS — *to write*](#8--one-verb-all-12-forms--to-write)**
+- **[9. 🇦🇿 AZERBAIJANI-INTERFERENCE MASTER LIST](#9--azerbaijani-interference-master-list)**
+- **[10. 🚫 TOP 15 CROSS-TENSE MISTAKES (master list)](#10--top-15-cross-tense-mistakes-master-list)**
+- **[11. 🧠 MEMORY TRICKS — the whole system](#11--memory-tricks--the-whole-system)**
+- **[🎯 CEFR EXAMPLES — A1 → C2 (MIXED tenses)](#-cefr-examples--a1--c2-mixed-tenses)**
+- **[📚 MINI STORY — *"A Life in Twelve Tenses"*](#-mini-story--a-life-in-twelve-tenses)**
+  - [🇬🇧 A Life in Twelve Tenses](#-a-life-in-twelve-tenses)
+  - [🇦🇿 On İki Zamanda Bir Həyat *(translation)*](#-on-iki-zamanda-bir-həyat-translation)
+  - [🔑 Story key — spot every tense](#-story-key--spot-every-tense)
+  - [❓ Story questions](#-story-questions)
+- **[📝 BIG MIXED EXERCISES](#-big-mixed-exercises)**
+  - [A. Choose the correct tense (mixed — all 12 + specials)](#a-choose-the-correct-tense-mixed--all-12--specials)
+  - [B. Present Perfect or Past Simple?](#b-present-perfect-or-past-simple)
+  - [C. Conditionals & reported speech](#c-conditionals--reported-speech)
+  - [D. Passive — put the verb in the right passive form](#d-passive--put-the-verb-in-the-right-passive-form)
+  - [E. Error correction (mixed)](#e-error-correction-mixed)
+  - [F. Translate (🇦🇿 → 🇬🇧)](#f-translate---)
+  - [✅ ANSWER KEY](#-answer-key)
+- **[🧩 EXPANSION PACK — *Mastery & Cross-Tense Skills* (E1–E12)](#-expansion-pack--mastery--cross-tense-skills-e1e12)**
+  - [E1 · The MINIMAL-PAIR gym — tiny change, huge meaning 🥋](#e1--the-minimal-pair-gym--tiny-change-huge-meaning-)
+  - [E2 · Time expressions that work with SEVERAL tenses ⏰](#e2--time-expressions-that-work-with-several-tenses-)
+  - [E3 · NO future after time words — the time-clause rule ⛔](#e3--no-future-after-time-words--the-time-clause-rule-)
+  - [E4 · Mixing tenses in ONE sentence — valid combinations 🔗](#e4--mixing-tenses-in-one-sentence--valid-combinations-)
+  - [E5 · Register — how text TYPE shifts tense choice 📑](#e5--register--how-text-type-shifts-tense-choice-)
+  - [E6 · The SAME verb, two meanings — state vs action 🔄](#e6--the-same-verb-two-meanings--state-vs-action-)
+  - [E7 · Present tenses for the FUTURE — consolidated 🔮](#e7--present-tenses-for-the-future--consolidated-)
+  - [E8 · The "HOW LONG" family — duration across all times ⏳](#e8--the-how-long-family--duration-across-all-times-)
+  - [E9 · Special structures that demand a "past" form for non-past meaning 🎭](#e9--special-structures-that-demand-a-past-form-for-non-past-meaning-)
+  - [E10 · 🗺️ THE ULTIMATE TENSE-PICKER (detailed flowchart)](#e10---the-ultimate-tense-picker-detailed-flowchart)
+  - [E11 · 🏋️ ADVANCED mixed exercises (the hardest)](#e11---advanced-mixed-exercises-the-hardest)
+  - [E12 · 🔍 SELF-DIAGNOSIS — find & fix your own tense errors](#e12---self-diagnosis--find--fix-your-own-tense-errors)
+- **[🗂️ EXTRA EXAMPLES BANK — *Mixed Tenses*](#-extra-examples-bank--mixed-tenses)**
+  - [📦 Bank 1 — One verb (*go*) across the tenses](#-bank-1--one-verb-go-across-the-tenses)
+  - [📦 Bank 2 — The CONFUSABLE PAIRS in action ⚔️](#-bank-2--the-confusable-pairs-in-action-)
+  - [📦 Bank 3 — TWO clauses, DIFFERENT tenses (valid mixes)](#-bank-3--two-clauses-different-tenses-valid-mixes)
+  - [📦 Bank 4 — Time clauses (NO future after when/after/until)](#-bank-4--time-clauses-no-future-after-whenafteruntil)
+  - [📦 Bank 5 — The FUTURE forms compared](#-bank-5--the-future-forms-compared)
+  - [📦 Bank 6 — Special structures (past form, present meaning) 🎭](#-bank-6--special-structures-past-form-present-meaning-)
+  - [📦 Bank 7 — Real-world paragraphs (tenses working together) 🧩](#-bank-7--real-world-paragraphs-tenses-working-together-)
+  - [📦 Bank 8 — Everyday mixed sentences (A2–B1)](#-bank-8--everyday-mixed-sentences-a2b1)
+  - [🎤 Build-Your-Own — 8 frames (one per main tense + mix)](#-build-your-own--8-frames-one-per-main-tense--mix)
+- **[🧪 EXTRA QUIZ BANK — *Mixed Tenses (Whole System)*](#-extra-quiz-bank--mixed-tenses-whole-system)**
+  - [🔵 ROUND 1 — Choose the right tense (mixed)](#-round-1--choose-the-right-tense-mixed)
+  - [🟢 ROUND 2 — The confusable pairs](#-round-2--the-confusable-pairs)
+  - [🟡 ROUND 3 — Special forms (conditionals, reported, passive)](#-round-3--special-forms-conditionals-reported-passive)
+  - [🟠 ROUND 4 — Spot the mistake (the master error list)](#-round-4--spot-the-mistake-the-master-error-list)
+  - [🔴 ROUND 5 — Translate & transform (hardest)](#-round-5--translate--transform-hardest)
+  - [⭐ ROUND 6 — The one-paragraph challenge](#-round-6--the-one-paragraph-challenge)
+  - [📊 Score yourself (out of 49)](#-score-yourself-out-of-49)
+- **[📖 MINI STORY #2 — *"The Interview"*](#-mini-story-2--the-interview)**
+  - [🇬🇧 The Interview](#-the-interview)
+  - [🇦🇿 Müsahibə *(translation)*](#-müsahibə-translation)
+  - [🔑 Story key — spot the mix](#-story-key--spot-the-mix)
+  - [❓ Story questions](#-story-questions-1)
+  - [🏁 End of Chapter 44 — Appendices & Reference](#-end-of-chapter-44--appendices--reference)
+
+</details>
+
 ## 🧭 Legend / İşarələrin mənası
 ```
  ✅ correct · ❌ wrong · ⚠️ careful · 💡 tip · 🧠 memory · 🇦🇿 Azerbaijani note
