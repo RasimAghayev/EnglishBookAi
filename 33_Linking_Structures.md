@@ -1059,4 +1059,6 @@ You can now **join ideas with precision.** The trick is to pick a linker by **tw
 
 **NEXT → Chapter 34: Advanced Native Structures (*be about/due/likely to · no sooner…than · inversion*).** ✨
 
+> 🧭 **Navigate:** [🏠 Contents](00_Table_of_Contents.md) · [⬅️ Ch 32 · Relative Clauses](32_Relative_Clauses.md) · [Ch 34 · Advanced Native Structures ➡️](34_Advanced_Native_Structures.md)
+
 > **Commands:** `NEXT` · `REWRITE` · `EXPAND` · `EXAMPLES` · `QUIZ` · `STORY` · `END`

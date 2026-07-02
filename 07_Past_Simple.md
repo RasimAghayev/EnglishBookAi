@@ -1526,4 +1526,6 @@ Keep memorizing irregular verbs — they're the key to fluent past narration.
 
 **NEXT → Chapter 08: Past Continuous (*was/were + V-ing — the "interrupted past"*).** 🎬
 
+> 🧭 **Navigate:** [🏠 Contents](00_Table_of_Contents.md) · [⬅️ Ch 06 · Present Perfect Continuous](06_Present_Perfect_Continuous.md) · [Ch 08 · Past Continuous ➡️](08_Past_Continuous.md)
+
 > **Commands:** `NEXT` · `REWRITE` · `EXPAND` · `EXAMPLES` · `QUIZ` · `STORY` · `END`

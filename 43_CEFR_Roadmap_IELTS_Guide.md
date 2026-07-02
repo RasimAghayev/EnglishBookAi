@@ -868,4 +868,6 @@ You now hold the **map of the whole journey.** The CEFR roadmap shows, level by 
 
 **NEXT → Chapter 49: Final Mastery Test (*A1→C2 + self-assessment*).** 🏁
 
+> 🧭 **Navigate:** [🏠 Contents](00_Table_of_Contents.md) · [⬅️ Ch 42 · Mixed and Advanced Quizzes](42_Mixed_and_Advanced_Quizzes.md) · [Ch 44 · Mixed Tense Review ➡️](44_Mixed_Tense_Review.md)
+
 > **Commands:** `NEXT` · `REWRITE` · `EXPAND` · `EXAMPLES` · `QUIZ` · `STORY` · `END`

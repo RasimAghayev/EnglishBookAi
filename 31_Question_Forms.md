@@ -1113,4 +1113,6 @@ You can now **ask anything.** English builds questions by **inverting the operat
 
 **NEXT → Chapter 32: Relative Clauses (*who · whom · whose · which · that · where · when*).** 🔗
 
+> 🧭 **Navigate:** [🏠 Contents](00_Table_of_Contents.md) · [⬅️ Ch 30 · Causative](30_Causative.md) · [Ch 32 · Relative Clauses ➡️](32_Relative_Clauses.md)
+
 > **Commands:** `NEXT` · `REWRITE` · `EXPAND` · `EXAMPLES` · `QUIZ` · `STORY` · `END`

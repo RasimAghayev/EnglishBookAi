@@ -1454,4 +1454,6 @@ same question: **"Is it connected to NOW, or finished in the PAST?"**
 
 **NEXT → Chapter 06: Present Perfect Continuous (*have been + V-ing — "how long" in action*).** ⏳
 
+> 🧭 **Navigate:** [🏠 Contents](00_Table_of_Contents.md) · [⬅️ Ch 04 · Present Continuous](04_Present_Continuous.md) · [Ch 06 · Present Perfect Continuous ➡️](06_Present_Perfect_Continuous.md)
+
 > **Commands:** `NEXT` · `REWRITE` · `EXPAND` · `EXAMPLES` · `QUIZ` · `STORY` · `END`

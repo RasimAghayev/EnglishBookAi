@@ -1709,4 +1709,6 @@ storytelling. The magic combo: **Past Continuous (background) + Past Simple (eve
 
 **NEXT → Chapter 09: Past Perfect (*had + V3 — the "past before the past"*).** ⏪
 
+> 🧭 **Navigate:** [🏠 Contents](00_Table_of_Contents.md) · [⬅️ Ch 07 · Past Simple](07_Past_Simple.md) · [Ch 09 · Past Perfect ➡️](09_Past_Perfect.md)
+
 > **Commands:** `NEXT` · `REWRITE` · `EXPAND` · `EXAMPLES` · `QUIZ` · `STORY` · `END`

@@ -1112,4 +1112,6 @@ and **deep-analysis tasks**. 🎯
 
 **NEXT → Chapter 13: Present Forms for the Future — "I'm meeting Ali at 6 / The train leaves at 9."** 🗓️
 
+> 🧭 **Navigate:** [🏠 Contents](00_Table_of_Contents.md) · [⬅️ Ch 11 · Future Simple](11_Future_Simple.md) · [Ch 13 · Present Forms for Future ➡️](13_Present_Forms_for_Future.md)
+
 > **Commands:** `NEXT` · `REWRITE` · `EXPAND` · `EXAMPLES` · `QUIZ` · `STORY` · `END`

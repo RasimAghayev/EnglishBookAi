@@ -1461,4 +1461,6 @@ You now know the **Present Simple** — the backbone of everyday English. Practi
 
 **NEXT → Chapter 04: Present Continuous (*the "right now / -ing" tense*).** 🔄
 
+> 🧭 **Navigate:** [🏠 Contents](00_Table_of_Contents.md) · [⬅️ Ch 02 · Grammar Foundations](02_Grammar_Foundations.md) · [Ch 04 · Present Continuous ➡️](04_Present_Continuous.md)
+
 > **Commands:** `NEXT` · `REWRITE` · `EXPAND` · `EXAMPLES` · `QUIZ` · `STORY` · `END`

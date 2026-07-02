@@ -1042,4 +1042,6 @@ go two ways, and the **dangerous signals** (a finished-time word forces Past Sim
 
 **NEXT → Chapter 47: Glossary of Grammar Terms (English + Azerbaijani).** 📖
 
+> 🧭 **Navigate:** [🏠 Contents](00_Table_of_Contents.md) · [⬅️ Ch 45 · Irregular Verbs List](45_Irregular_Verbs_List.md) · [Ch 47 · Glossary ➡️](47_Glossary.md)
+
 > **Commands:** `NEXT` · `REWRITE` · `EXPAND` · `EXAMPLES` · `QUIZ` · `STORY` · `END`

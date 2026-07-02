@@ -1695,4 +1695,6 @@ be used to / get used to** distinction. And you saw it maps beautifully onto Aze
 
 **NEXT → Chapter 24: Tenses in Conditionals (0, 1, 2, 3 + mixed + inverted) — "if this, then that."** 🔀
 
+> 🧭 **Navigate:** [🏠 Contents](00_Table_of_Contents.md) · [⬅️ Ch 22 · Modals Will Would Shall](22_Modals_Will_Would_Shall.md) · [Ch 24 · Tenses in Conditionals ➡️](24_Tenses_in_Conditionals.md)
+
 > **Commands:** `NEXT` · `REWRITE` · `EXPAND` · `EXAMPLES` · `QUIZ` · `STORY` · `END`

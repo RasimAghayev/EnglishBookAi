@@ -1736,4 +1736,6 @@ verbs**; **how long → -ing / how many → will have + V3**. ⏳🔮
 
 **NEXT → Chapter 17: Future in the Past (*would / was going to*) — the future seen from the past.** 🕰️
 
+> 🧭 **Navigate:** [🏠 Contents](00_Table_of_Contents.md) · [⬅️ Ch 15 · Future Perfect](15_Future_Perfect.md) · [Ch 17 · Future in the Past ➡️](17_Future_in_the_Past.md)
+
 > **Commands:** `NEXT` · `REWRITE` · `EXPAND` · `EXAMPLES` · `QUIZ` · `STORY` · `END`

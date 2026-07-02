@@ -1054,4 +1054,6 @@ You can now say that **someone else did it.** For a **thing**, you arrange a ser
 
 **NEXT → Chapter 31: Question Forms (*wh- · yes/no · negative · tag · indirect*).** ❓
 
+> 🧭 **Navigate:** [🏠 Contents](00_Table_of_Contents.md) · [⬅️ Ch 29 · Wishes Unreal Past](29_Wishes_Unreal_Past.md) · [Ch 31 · Question Forms ➡️](31_Question_Forms.md)
+
 > **Commands:** `NEXT` · `REWRITE` · `EXPAND` · `EXAMPLES` · `QUIZ` · `STORY` · `END`

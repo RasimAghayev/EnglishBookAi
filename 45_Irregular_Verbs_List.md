@@ -1195,4 +1195,6 @@ bookmarked — you'll return to it constantly. 📋
 
 **NEXT → Chapter 46: Signal-Words Master List (all tenses).** 🔔
 
+> 🧭 **Navigate:** [🏠 Contents](00_Table_of_Contents.md) · [⬅️ Ch 44 · Mixed Tense Review](44_Mixed_Tense_Review.md) · [Ch 46 · Signal Words Master List ➡️](46_Signal_Words_Master_List.md)
+
 > **Commands:** `NEXT` · `REWRITE` · `EXPAND` · `EXAMPLES` · `QUIZ` · `STORY` · `END`

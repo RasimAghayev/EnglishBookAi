@@ -1675,4 +1675,6 @@ combo: **Past Perfect (earlier) + Past Simple (later)**. Remember: *had + V3*, t
 
 **NEXT → Chapter 10: Past Perfect Continuous (*had been + V-ing — "how long, up to a past point"*).** ⏳
 
+> 🧭 **Navigate:** [🏠 Contents](00_Table_of_Contents.md) · [⬅️ Ch 08 · Past Continuous](08_Past_Continuous.md) · [Ch 10 · Past Perfect Continuous ➡️](10_Past_Perfect_Continuous.md)
+
 > **Commands:** `NEXT` · `REWRITE` · `EXPAND` · `EXAMPLES` · `QUIZ` · `STORY` · `END`

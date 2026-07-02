@@ -1051,4 +1051,6 @@ You can now **pin actions in time with precision.** Time words are **tense-trigg
 
 **NEXT → Chapter 36: Most Confusing English Tenses (*≈19 side-by-side comparisons*).** 🔀
 
+> 🧭 **Navigate:** [🏠 Contents](00_Table_of_Contents.md) · [⬅️ Ch 34 · Advanced Native Structures](34_Advanced_Native_Structures.md) · [Ch 36 · Most Confusing Tenses ➡️](36_Most_Confusing_Tenses.md)
+
 > **Commands:** `NEXT` · `REWRITE` · `EXPAND` · `EXAMPLES` · `QUIZ` · `STORY` · `END`

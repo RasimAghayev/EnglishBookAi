@@ -1638,4 +1638,6 @@ how long it had been building**:
 
 **NEXT → Chapter 28: There is / There are — existential structures.** 🧱
 
+> 🧭 **Navigate:** [🏠 Contents](00_Table_of_Contents.md) · [⬅️ Ch 26 · Tenses in Passive Voice](26_Tenses_in_Passive_Voice.md) · [Ch 28 · There Is There Are ➡️](28_There_Is_There_Are.md)
+
 > **Commands:** `NEXT` · `REWRITE` · `EXPAND` · `EXAMPLES` · `QUIZ` · `STORY` · `END`

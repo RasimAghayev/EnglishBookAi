@@ -1063,4 +1063,6 @@ and the four standard sections complete the picture. 🚦
 
 **NEXT → Chapter 21: Modals — Advice & Expectation (*should / ought to / had better / be supposed to*).** ✅
 
+> 🧭 **Navigate:** [🏠 Contents](00_Table_of_Contents.md) · [⬅️ Ch 19 · Modals Possibility Deduction](19_Modals_Possibility_Deduction.md) · [Ch 21 · Modals Advice Expectation ➡️](21_Modals_Advice_Expectation.md)
+
 > **Commands:** `NEXT` · `REWRITE` · `EXPAND` · `EXAMPLES` · `QUIZ` · `STORY` · `END`

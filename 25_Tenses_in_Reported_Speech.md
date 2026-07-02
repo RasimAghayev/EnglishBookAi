@@ -1647,4 +1647,6 @@ tense; English shifts it back.** 🗣️
 
 **NEXT → Chapter 26: Tenses in the Passive Voice — "The letter was written."** 🔄
 
+> 🧭 **Navigate:** [🏠 Contents](00_Table_of_Contents.md) · [⬅️ Ch 24 · Tenses in Conditionals](24_Tenses_in_Conditionals.md) · [Ch 26 · Tenses in Passive Voice ➡️](26_Tenses_in_Passive_Voice.md)
+
 > **Commands:** `NEXT` · `REWRITE` · `EXPAND` · `EXAMPLES` · `QUIZ` · `STORY` · `END`

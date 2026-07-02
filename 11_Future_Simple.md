@@ -1699,4 +1699,6 @@ clauses**. 🔮
 
 **NEXT → Chapter 12: Future with Going To (*be going to + V1 — plans & predictions*)** — then Chapter 13 (present forms for the future). 🗓️
 
+> 🧭 **Navigate:** [🏠 Contents](00_Table_of_Contents.md) · [⬅️ Ch 10 · Past Perfect Continuous](10_Past_Perfect_Continuous.md) · [Ch 12 · Future Going To ➡️](12_Future_Going_To.md)
+
 > **Commands:** `NEXT` · `REWRITE` · `EXPAND` · `EXAMPLES` · `QUIZ` · `STORY` · `END`

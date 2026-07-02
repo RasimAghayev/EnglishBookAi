@@ -817,4 +817,6 @@ You've reached the **finish line** — and taken a test that proves how far you'
 > **What now?** Keep the language alive: talk, write, read, and re-test. Use the **roadmap (Ch.43)** to aim higher, the **banks (Ch.41)** to practise daily, and the **appendices (Ch.44–48)** whenever you need a quick reference.
 > 🇦🇿 *Bütün **49 fəsli** tamamladın — təməldən C2 ustalığına qədər. İndi dili canlı saxla: danış, yaz, oxu, təkrar yoxla. Yolun açıq olsun!* 💚
 
+> 🧭 **Navigate:** [🏠 Contents](00_Table_of_Contents.md) · [⬅️ Ch 48 · Answer Keys](48_Answer_Keys.md)
+
 > **Commands:** `REWRITE` · `EXPAND` · `EXAMPLES` · `QUIZ` · `STORY` · `END`

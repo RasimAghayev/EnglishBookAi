@@ -1380,4 +1380,6 @@ plus a story that breathes all twelve tenses at once. This is your **go-to revis
 
 **NEXT → Chapter 45: Master List of Irregular Verbs (V1 / V2 / V3 + IPA).** 📋
 
+> 🧭 **Navigate:** [🏠 Contents](00_Table_of_Contents.md) · [⬅️ Ch 43 · CEFR Roadmap IELTS Guide](43_CEFR_Roadmap_IELTS_Guide.md) · [Ch 45 · Irregular Verbs List ➡️](45_Irregular_Verbs_List.md)
+
 > **Commands:** `NEXT` · `REWRITE` · `EXPAND` · `EXAMPLES` · `QUIZ` · `STORY` · `END`

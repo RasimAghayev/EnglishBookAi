@@ -1189,4 +1189,6 @@ alternatives, deep-analysis tasks). 🕰️
 
 **NEXT → Chapter 18: Modals — Ability & Permission (*can / could / be able to / may / might*).** 🟥
 
+> 🧭 **Navigate:** [🏠 Contents](00_Table_of_Contents.md) · [⬅️ Ch 16 · Future Perfect Continuous](16_Future_Perfect_Continuous.md) · [Ch 18 · Modals Ability Permission ➡️](18_Modals_Ability_Permission.md)
+
 > **Commands:** `NEXT` · `REWRITE` · `EXPAND` · `EXAMPLES` · `QUIZ` · `STORY` · `END`

@@ -1106,4 +1106,6 @@ You've now closed the **modal family**. *Will* carries both a **human heart** (o
 
 **NEXT → Chapter 23: Used to · be used to · get used to (*habit & familiarity*).** ✅
 
+> 🧭 **Navigate:** [🏠 Contents](00_Table_of_Contents.md) · [⬅️ Ch 21 · Modals Advice Expectation](21_Modals_Advice_Expectation.md) · [Ch 23 · Used to Would ➡️](23_Used_to_Would.md)
+
 > **Commands:** `NEXT` · `REWRITE` · `EXPAND` · `EXAMPLES` · `QUIZ` · `STORY` · `END`
