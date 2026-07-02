@@ -167,7 +167,7 @@ combination of these forms. We label them with simple codes.
 | be | was/were | been | olmaq |
 
 > 📌 There are about **180 common irregular verbs.** The **full list is in
-> Chapter 23**. Don't memorize them all now — you'll absorb them lesson by lesson.
+> Chapter 45**. Don't memorize them all now — you'll absorb them lesson by lesson.
 
 ---
 
@@ -358,7 +358,7 @@ Try these before moving on. **Answers are below — don't peek!**
  │  • 3 helping verbs: BE (continuous), HAVE (perfect),    │
  │                     DO (simple questions/negatives).    │
  │  • 5 verb forms: V1 · V1-s · V2 · V3 · V-ing.           │
- │  • Regular = +ed.  Irregular = memorize (Ch. 23).       │
+ │  • Regular = +ed.  Irregular = memorize (Ch. 45).       │
  │  • TIME (3) × ASPECT (4) = 12 TENSES.                   │
  │  • Find the helper → flip it (?) or add not (negative). │
  └─────────────────────────────────────────────────────────┘

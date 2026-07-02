@@ -151,7 +151,7 @@ Model verb: **finish** (V3 = *finished*). Helper: **will have** (same for **all*
 4. In **time clauses** (*by the time, when, before*), use the **present simple**, not *will*:
    *"By the time you **arrive**, I'**ll have left**."*
 5. For an action **in progress up to** a future point (not completed), use the **Future Perfect
-   Continuous** (Ch. 14, next).
+   Continuous** (Ch. 16, next).
 6. **by** ≠ **until**: *by* = not later than (deadline); *until* = continuing up to.
 
 > 🧠 **Golden rule:** Future Perfect needs a **future deadline** to be "done before." Without a
@@ -258,7 +258,7 @@ is**:
 | **Example** | By June, I'**ll have written** 3 books. | By June, I'**ll have been writing** for 5 years. |
 
 > ⏭️ **Bridge:** if the action is **still going** up to the future point (duration), use the
-> **Future Perfect Continuous** (Ch. 14, next). If it's **finished** by then, use the **Future
+> **Future Perfect Continuous** (Ch. 16, next). If it's **finished** by then, use the **Future
 > Perfect**.
 
 ---
@@ -485,7 +485,7 @@ a fact* → Future Simple (*at 6, I'll eat*).
 
 **Q5: Future Perfect or Future Perfect Continuous?**
 *Completed (how many/result)* → Future Perfect. *Still going (how long/duration)* → Future
-Perfect Continuous (Ch. 14).
+Perfect Continuous (Ch. 16).
 
 **Q6: Why "By the time you arrive" not "will arrive"?**
 After *by the time / when / before*, English uses the **present simple** for future meaning.
@@ -786,7 +786,7 @@ qayıtmış olacağam. Və məhz bu anı xatırlayacağam.*
   *"by the time you **read** this"*, *"by the time we **open**"* → **present simple** in the
   *by the time* clauses. ✅
 - **The key idea:** the **opening of the capsule in 20 years** is the future deadline; every
-  *will have + V3* describes what's **finished before** it. That's Chapter 13 in one image. 🏁
+  *will have + V3* describes what's **finished before** it. That's Chapter 15 in one image. 🏁
 - **Negative:** *"you **won't have forgotten** who you are"* → *won't have + V3*.
 - **Pattern to copy:** set a **future date** (*in twenty years / by then*) and list what you
   **will have done** by it.
@@ -1060,7 +1060,7 @@ The Future Perfect can give a **duration that will be complete by** a future poi
 | By 2025, I'**ll have known** him **for** a decade. | state lasting up to a point |
 
 > ⏭️ **Bridge:** for an **action still in progress** up to the point (*"I'll have **been
-> working** for 5 years"*), use the **Future Perfect Continuous** (Ch. 14). **State verbs**
+> working** for 5 years"*), use the **Future Perfect Continuous** (Ch. 16). **State verbs**
 > (*be, know, have*) stay in the **simple** Future Perfect.
 
 ---
@@ -1081,7 +1081,7 @@ When the **doer doesn't matter** (or is obvious), use the passive: **will have b
 | They'll have made a decision. | A decision **will have been made**. |
 
 > 📌 Form: **will have been + V3**. Common in formal/business writing about deadlines. (Full
-> passive = Ch. 20.) 🇦🇿 *"...edilmiş olacaq."*
+> passive = Ch. 26.) 🇦🇿 *"...edilmiş olacaq."*
 
 ---
 
@@ -1099,7 +1099,7 @@ When the **doer doesn't matter** (or is obvious), use the passive: **will have b
 ```
 
 > 🧠 **Choose by the question:** *How many / finished?* → Future Perfect. *How long / still
-> going?* → Future Perfect Continuous (Ch. 14, next).
+> going?* → Future Perfect Continuous (Ch. 16, next).
 
 ---
 
@@ -1128,7 +1128,7 @@ reported speech and the third conditional:
 | Context | Example |
 |---------|---------|
 | **Reported** | She said she **would have finished** by 6. |
-| **Third conditional** (unreal past) | If I'd studied, I **would have passed**. *(Ch. 18)* |
+| **Third conditional** (unreal past) | If I'd studied, I **would have passed**. *(Ch. 24)* |
 | **Future-in-the-past** | I knew that by 9 they **would have left**. |
 
 ```
@@ -1136,7 +1136,7 @@ reported speech and the third conditional:
    would have + V3  (from a PAST point, looking forward)
 ```
 
-> 💡 *would have + V3* is the **past-shifted twin** of *will have + V3*. (More in Ch. 14 & 18.)
+> 💡 *would have + V3* is the **past-shifted twin** of *will have + V3*. (More in Ch. 16 & 24.)
 
 ---
 
@@ -1621,7 +1621,7 @@ O günün sonuna qədər, Nigar bilirdi, daha yüz nəfəri qarşılamış olaca
 - **Time clauses (present, not will):** *"By the time the first customer **walks** in"*, *"By
   the time… **walks**"* → present simple after *by the time*. ✅
 - **The key idea:** **opening day** is the deadline; everything is **finished before** it. The
-  countdown structure is Chapter 13 in action. 🏁
+  countdown structure is Chapter 15 in action. 🏁
 - **Negative:** *"you **won't** even **recognise** this place"* (Future Simple) contrasts with
   all the *will have* completions.
 - **Pattern to copy:** set a deadline, then list what **will have been done / will have done**

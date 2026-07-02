@@ -146,7 +146,7 @@ Model verb: **work**. Helper: **will have been** (same for **all** subjects! �
    ❌ *will have been knowing* → ✅ *will have known*.
 5. In **time clauses** (*by the time, when*), use the **present**: *"By the time you **arrive**,
    I'**ll have been waiting** for an hour."*
-6. **Don't overuse it** — for *how many / a result*, use the **Future Perfect** (Ch. 13):
+6. **Don't overuse it** — for *how many / a result*, use the **Future Perfect** (Ch. 15):
    *"I'**ll have written** 3 books"* (how many), not *"will have been writing 3 books."*
 
 > 🧠 **Golden rule:** like the Future Perfect, it needs a **future point** to look back from —
@@ -789,7 +789,7 @@ Və onların üzlərinə baxaraq bilirdi ki, o gedəndən çox sonra da onun də
   thousand students"* → a **result/amount**, so simple Future Perfect (*will have + V3*), not
   the continuous. This is the §11 distinction live. ✅
 - **Future-in-the-past:** *"would have been teaching … for forty years"* and *"his lessons
-  **would** go on"* → *will* shifted to *would* in past narration (E8 of Ch. 13).
+  **would** go on"* → *will* shifted to *would* in past narration (E8 of Ch. 17).
 - **Time clause (present):** *"By the time I **retire**, I'll have been doing…"* → present after
   *by the time*. ✅
 - **Pattern to copy:** pick a **future date** + a **duration**, and say what you **will have
@@ -1015,7 +1015,7 @@ Shifted to a past viewpoint, *will have been + V-ing* becomes **would have been 
 | "I'll have been waiting for an hour." | He said he **would have been waiting** for an hour. |
 | "We'll have been driving all day." | They said they **would have been driving** all day. |
 
-> 💡 *would have been + V-ing* is the **past-shifted twin**. (Full reported speech = Ch. 19.)
+> 💡 *would have been + V-ing* is the **past-shifted twin**. (Full reported speech = Ch. 25.)
 
 ---
 

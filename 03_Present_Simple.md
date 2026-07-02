@@ -249,7 +249,7 @@ These words are **clues** that you need the Present Simple:
 | Example | She **lives** in Baku. | She **lived** in Baku (last year). |
 
 > 🔎 Full deep-dive comparison is in **Chapter 04 (Present Continuous)** and
-> **Chapter 22 (Mixed Review)**.
+> **Chapter 44 (Mixed Review)**.
 
 ---
 
@@ -1104,7 +1104,7 @@ Surprise rule: after these words, we use **Present Simple** even though we mean 
    I will leave                 +   when the rain stops.
 ```
 
-> 📌 This connects to **Chapter 18 (Conditionals)**. For now, remember:
+> 📌 This connects to **Chapter 24 (Conditionals)**. For now, remember:
 > **"After *when/if*, use Present Simple for the future."** 🇦🇿 *when/if-dən sonra
 > gələcək üçün indiki zamandan istifadə et.*
 
