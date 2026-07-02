@@ -18,6 +18,72 @@
 
 ---
 
+<details>
+<summary>📑 <b>On this page</b> — jump to any section (click to expand)</summary>
+
+- [🧭 THE BIG PICTURE — the three skills of production](#-the-big-picture--the-three-skills-of-production)
+- **[🔤 TRANSLATION BANK — 🇦🇿 → EN (1–100)](#-translation-bank----en-1100)**
+  - [Group A — Present & Past tenses (1–10)](#group-a--present--past-tenses-110)
+  - [Group B — Future & modals (11–20)](#group-b--future--modals-1120)
+  - [Group C — Conditionals & wishes (21–30)](#group-c--conditionals--wishes-2130)
+  - [Group D — Relative, passive & reported (31–40)](#group-d--relative-passive--reported-3140)
+  - [Group E — Everyday & functional (41–50)](#group-e--everyday--functional-4150)
+- **[🗣️ SPEAKING BANK — prompts (1–100)](#-speaking-bank--prompts-1100)**
+  - [A1–A2 (warm-up, 1–15)](#a1a2-warm-up-115)
+  - [B1–B2 (opinion & narrative, 16–35)](#b1b2-opinion--narrative-1635)
+  - [C1–C2 (abstract & argument, 36–50)](#c1c2-abstract--argument-3650)
+- **[✍️ WRITING BANK — tasks (1–100)](#-writing-bank--tasks-1100)**
+  - [Emails & letters (1–12)](#emails--letters-112)
+  - [Essays & opinion (13–25)](#essays--opinion-1325)
+  - [Stories & description (26–35)](#stories--description-2635)
+  - [IELTS-style (36–50)](#ielts-style-3650)
+  - [🅰️ §A — LEVEL DIFFERENCES (how to use the banks by level)](#-a--level-differences-how-to-use-the-banks-by-level)
+  - [🅱️ §B — NATIVE-SPEAKER INSIGHT (on producing, not just knowing)](#-b--native-speaker-insight-on-producing-not-just-knowing)
+  - [🅲 §C — ALTERNATIVE EXPRESSIONS (openers to sound fluent)](#-c--alternative-expressions-openers-to-sound-fluent)
+  - [🅳 §D — DEEP-ANALYSIS TASKS](#-d--deep-analysis-tasks)
+- **[💪 PRACTICE BLOCK — Chapter 41](#-practice-block--chapter-41)**
+  - [✅ PRACTICE BLOCK — Answer Key (models)](#-practice-block--answer-key-models)
+- **[📖 MINI STORY #1 — "The 100-Day Challenge"](#-mini-story-1--the-100-day-challenge)**
+- **[🧨 EXPANSION PACK — Production Strategies (E1–E12)](#-expansion-pack--production-strategies-e1e12)**
+  - [🅴1 — TRANSLATION technique (meaning-first, chunk-based)](#1--translation-technique-meaning-first-chunk-based)
+  - [🅴2 — SPEAKING fluency drills](#2--speaking-fluency-drills)
+  - [🅴3 — The WRITING process (plan → draft → edit)](#3--the-writing-process-plan--draft--edit)
+  - [🅴4 — The SELF-CORRECTION loop](#4--the-self-correction-loop)
+  - [🅴5 — SPACED practice & the error log](#5--spaced-practice--the-error-log)
+  - [🅴6 — Thinking in English (stop translating in your head)](#6--thinking-in-english-stop-translating-in-your-head)
+  - [🅴7 — IELTS SPEAKING strategy](#7--ielts-speaking-strategy)
+  - [🅴8 — IELTS WRITING structure](#8--ielts-writing-structure)
+  - [🅴9 — REGISTER in production (Ch.37 link)](#9--register-in-production-ch37-link)
+  - [🅴10 — Using COLLOCATIONS & idioms naturally (Ch.40 link)](#10--using-collocations--idioms-naturally-ch40-link)
+  - [🅴11 — Overcoming freezing & anxiety](#11--overcoming-freezing--anxiety)
+  - [🅴12 — 🇦🇿 CONTRASTIVE SYNTHESIS (produce, don't translate)](#12---contrastive-synthesis-produce-dont-translate)
+- **[📚 SECOND CEFR EXAMPLE BANK — what to PRODUCE at each level](#-second-cefr-example-bank--what-to-produce-at-each-level)**
+- **[🧪 EXTRA QUIZ — Production Challenge (15 items)](#-extra-quiz--production-challenge-15-items)**
+  - [✅ EXTRA QUIZ — Answer Key (models)](#-extra-quiz--answer-key-models)
+- **[🗂️ EXAMPLES MEGA-BANK — completing the banks (51–100 each)](#-examples-mega-bank--completing-the-banks-51100-each)**
+  - [🔤 TRANSLATION 51–100](#-translation-51100)
+  - [Group F — Perfect & continuous nuance (51–60)](#group-f--perfect--continuous-nuance-5160)
+  - [Group G — Linkers & complex sentences (61–70)](#group-g--linkers--complex-sentences-6170)
+  - [Group H — Advanced structures (71–80)](#group-h--advanced-structures-7180)
+  - [Group I — Phrasal verbs & idioms (81–90)](#group-i--phrasal-verbs--idioms-8190)
+  - [Group J — Register & functional (91–100)](#group-j--register--functional-91100)
+  - [🗣️ SPEAKING 51–100](#-speaking-51100)
+  - [IELTS Part 1 style (short personal, 51–65)](#ielts-part-1-style-short-personal-5165)
+  - [IELTS Part 2 cue cards (2-min talk, 66–80)](#ielts-part-2-cue-cards-2-min-talk-6680)
+  - [IELTS Part 3 / discussion (81–90)](#ielts-part-3--discussion-8190)
+  - [Role-plays & functional (91–100)](#role-plays--functional-91100)
+  - [✍️ WRITING 51–100](#-writing-51100)
+  - [Reviews & reports (51–60)](#reviews--reports-5160)
+  - [Summaries & descriptions (61–70)](#summaries--descriptions-6170)
+  - [Argument & discursive (71–85)](#argument--discursive-7185)
+  - [Creative & functional (86–100)](#creative--functional-86100)
+- **[📝 CHAPTER 41 QUIZ — Production Challenge (30 items)](#-chapter-41-quiz--production-challenge-30-items)**
+  - [✅ CHAPTER 41 QUIZ — Answer Key (models)](#-chapter-41-quiz--answer-key-models)
+- **[📖 MINI STORY #2 — "The Language Exchange"](#-mini-story-2--the-language-exchange)**
+  - [🏁 End of Chapter 41](#-end-of-chapter-41)
+
+</details>
+
 ## 🧭 THE BIG PICTURE — the three skills of production
 
 ```

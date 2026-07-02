@@ -23,6 +23,79 @@
 
 ---
 
+<details>
+<summary>📑 <b>On this page</b> — jump to any section (click to expand)</summary>
+
+- [🧭 THE BIG PICTURE — why tenses get confused](#-the-big-picture--why-tenses-get-confused)
+- [📋 THE MAP — the 19 duels at a glance](#-the-map--the-19-duels-at-a-glance)
+- **[🟢 PRESENT DUELS](#-present-duels)**
+  - [⚔️ Duel 1 — Present Simple ↔ Present Continuous](#-duel-1--present-simple--present-continuous)
+  - [⚔️ Duel 2 — Stative ↔ Dynamic verbs](#-duel-2--stative--dynamic-verbs)
+  - [⚔️ Duel 3 — Present Simple ↔ Present Perfect (states + for/since)](#-duel-3--present-simple--present-perfect-states--forsince)
+- **[🔵 PAST DUELS](#-past-duels)**
+  - [⚔️ Duel 4 — Past Simple ↔ Present Perfect](#-duel-4--past-simple--present-perfect)
+  - [⚔️ Duel 5 — Past Simple ↔ Past Continuous](#-duel-5--past-simple--past-continuous)
+  - [⚔️ Duel 6 — Past Simple ↔ Past Perfect](#-duel-6--past-simple--past-perfect)
+  - [⚔️ Duel 7 — used to ↔ would ↔ Past Simple (past habits)](#-duel-7--used-to--would--past-simple-past-habits)
+- **[🟣 PERFECT DUELS](#-perfect-duels)**
+  - [⚔️ Duel 8 — Present Perfect ↔ Present Perfect Continuous](#-duel-8--present-perfect--present-perfect-continuous)
+  - [⚔️ Duel 9 — Past Perfect ↔ Past Perfect Continuous](#-duel-9--past-perfect--past-perfect-continuous)
+  - [⚔️ Duel 10 — Present Perfect ↔ Past Perfect](#-duel-10--present-perfect--past-perfect)
+- **[🟠 FUTURE DUELS](#-future-duels)**
+  - [⚔️ Duel 11 — will ↔ going to](#-duel-11--will--going-to)
+  - [⚔️ Duel 12 — going to ↔ Present Continuous (future)](#-duel-12--going-to--present-continuous-future)
+  - [⚔️ Duel 13 — will ↔ Present Continuous (future)](#-duel-13--will--present-continuous-future)
+  - [⚔️ Duel 14 — Future Continuous ↔ Future Perfect](#-duel-14--future-continuous--future-perfect)
+- **[🔴 CONDITIONAL & HABIT DUELS](#-conditional--habit-duels)**
+  - [⚔️ Duel 15 — Zero ↔ First Conditional](#-duel-15--zero--first-conditional)
+  - [⚔️ Duel 16 — First ↔ Second Conditional](#-duel-16--first--second-conditional)
+  - [⚔️ Duel 17 — Second ↔ Third Conditional](#-duel-17--second--third-conditional)
+  - [⚔️ Duel 18 — used to ↔ be used to ↔ get used to](#-duel-18--used-to--be-used-to--get-used-to)
+  - [⚔️ Duel 19 — wish + past ↔ wish + past perfect](#-duel-19--wish--past--wish--past-perfect)
+  - [⛔ COMMON MISTAKES (the deadliest confusions)](#-common-mistakes-the-deadliest-confusions)
+  - [🅰️ §A — LEVEL DIFFERENCES (A1 → C2)](#-a--level-differences-a1--c2)
+  - [🅱️ §B — NATIVE-SPEAKER INSIGHT](#-b--native-speaker-insight)
+  - [🅲 §C — ALTERNATIVE EXPRESSIONS (when a tense feels risky)](#-c--alternative-expressions-when-a-tense-feels-risky)
+  - [🅳 §D — DEEP-ANALYSIS TASKS](#-d--deep-analysis-tasks)
+- **[💪 PRACTICE BLOCK — Chapter 36](#-practice-block--chapter-36)**
+  - [✅ PRACTICE BLOCK — Answer Key](#-practice-block--answer-key)
+- **[📖 MINI STORY #1 — "The Returning Traveller"](#-mini-story-1--the-returning-traveller)**
+- **[🧨 EXPANSION PACK — Most Confusing Tenses (E1–E12)](#-expansion-pack--most-confusing-tenses-e1e12)**
+  - [🅴1 — The 3-question DIAGNOSTIC (run it on any tense choice)](#1--the-3-question-diagnostic-run-it-on-any-tense-choice)
+  - [🅴2 — ⚠️ *did* vs *have done* (the #1 confusion)](#2---did-vs-have-done-the-1-confusion)
+  - [🅴3 — *had done*: when the PAST PERFECT is really needed](#3--had-done-when-the-past-perfect-is-really-needed)
+  - [🅴4 — *have done* vs *have been doing* (result vs activity)](#4--have-done-vs-have-been-doing-result-vs-activity)
+  - [🅴5 — The THREE FUTURES decision tree (will / going to / present continuous)](#5--the-three-futures-decision-tree-will--going-to--present-continuous)
+  - [🅴6 — Future Continuous vs Future Perfect (*at 8* vs *by 8*)](#6--future-continuous-vs-future-perfect-at-8-vs-by-8)
+  - [🅴7 — The FOUR-WAY habit/familiarity sort](#7--the-four-way-habitfamiliarity-sort)
+  - [🅴8 — The CONDITIONAL ladder (reality × time)](#8--the-conditional-ladder-reality--time)
+  - [🅴9 — STATIVE verbs (and the ones that switch)](#9--stative-verbs-and-the-ones-that-switch)
+  - [🅴10 — MIXED conditionals (crossing time zones)](#10--mixed-conditionals-crossing-time-zones)
+  - [🅴11 — SELF-DIAGNOSIS: read your error, find the duel](#11--self-diagnosis-read-your-error-find-the-duel)
+  - [🅴12 — 🇦🇿 CONTRASTIVE SYNTHESIS](#12---contrastive-synthesis)
+- **[📚 SECOND CEFR EXAMPLE BANK — the duels climbing the levels](#-second-cefr-example-bank--the-duels-climbing-the-levels)**
+- **[🧪 EXTRA QUIZ — Confusing Tenses Nuance (15 Questions)](#-extra-quiz--confusing-tenses-nuance-15-questions)**
+  - [✅ EXTRA QUIZ — Answer Key](#-extra-quiz--answer-key)
+- **[🗂️ EXAMPLES MEGA-BANK — Confusing Tenses](#-examples-mega-bank--confusing-tenses)**
+  - [📦 BLOCK 1 — 🟢 present simple ↔ present continuous](#-block-1---present-simple--present-continuous)
+  - [📦 BLOCK 2 — 🟢 stative ↔ dynamic](#-block-2---stative--dynamic)
+  - [📦 BLOCK 3 — 🔵 did ↔ have done](#-block-3---did--have-done)
+  - [📦 BLOCK 4 — 🔵 past simple ↔ past continuous](#-block-4---past-simple--past-continuous)
+  - [📦 BLOCK 5 — 🔵 past simple ↔ past perfect](#-block-5---past-simple--past-perfect)
+  - [📦 BLOCK 6 — 🟣 have done ↔ have been doing](#-block-6---have-done--have-been-doing)
+  - [📦 BLOCK 7 — 🟠 will ↔ going to](#-block-7---will--going-to)
+  - [📦 BLOCK 8 — 🟠 the three futures (arrangement / intention / decision)](#-block-8---the-three-futures-arrangement--intention--decision)
+  - [📦 BLOCK 9 — 🟠 future continuous ↔ future perfect](#-block-9---future-continuous--future-perfect)
+  - [📦 BLOCK 10 — 🔴 the conditional ladder (0 / 1 / 2 / 3)](#-block-10---the-conditional-ladder-0--1--2--3)
+  - [📦 BLOCK 11 — 🔴 used to / would / be used to / get used to (+ wish)](#-block-11---used-to--would--be-used-to--get-used-to--wish)
+  - [📦 BLOCK 12 — 🎬 REAL-LIFE — a paragraph to decode (name the tense in each gap)](#-block-12---real-life--a-paragraph-to-decode-name-the-tense-in-each-gap)
+- **[📝 CHAPTER 36 QUIZ — Most Confusing Tenses (30 Questions)](#-chapter-36-quiz--most-confusing-tenses-30-questions)**
+  - [✅ CHAPTER 36 QUIZ — Answer Key](#-chapter-36-quiz--answer-key)
+- **[📖 MINI STORY #2 — "Results Day"](#-mini-story-2--results-day)**
+  - [🏁 End of Chapter 36](#-end-of-chapter-36)
+
+</details>
+
 ## 🧭 THE BIG PICTURE — why tenses get confused
 
 Every tense choice answers **three questions** at once. Confusion happens when two tenses share two answers and differ on only one:

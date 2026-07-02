@@ -18,6 +18,63 @@
 
 ---
 
+<details>
+<summary>📑 <b>On this page</b> — jump to any section (click to expand)</summary>
+
+- [🧭 THE BIG PICTURE — how to use a quiz to actually improve](#-the-big-picture--how-to-use-a-quiz-to-actually-improve)
+- **[🟢 MIXED QUIZZES — B1–B2 (Q1–50)](#-mixed-quizzes--b1b2-q150)**
+  - [🟢 Set 1 — Tenses (1–10)](#-set-1--tenses-110)
+  - [🟢 Set 2 — Modals (11–20)](#-set-2--modals-1120)
+  - [🟢 Set 3 — Conditionals & wishes (21–30)](#-set-3--conditionals--wishes-2130)
+  - [🟢 Set 4 — Articles, prepositions, quantifiers (31–40)](#-set-4--articles-prepositions-quantifiers-3140)
+  - [🟢 Set 5 — Passive, reported, relative, questions (41–50)](#-set-5--passive-reported-relative-questions-4150)
+  - [✅ MIXED QUIZZES — ANSWER KEY (1–50)](#-mixed-quizzes--answer-key-150)
+- **[🔴 ADVANCED QUIZZES — C1–C2 (Q51–100)](#-advanced-quizzes--c1c2-q51100)**
+  - [🔴 Set 6 — Perfect aspects & narrative (51–60)](#-set-6--perfect-aspects--narrative-5160)
+  - [🔴 Set 7 — Advanced modals & past deduction (61–70)](#-set-7--advanced-modals--past-deduction-6170)
+  - [🔴 Set 8 — Mixed conditionals, inversion, wish (71–80)](#-set-8--mixed-conditionals-inversion-wish-7180)
+  - [🔴 Set 9 — Cleft, causative, be+to, advanced structures (81–90)](#-set-9--cleft-causative-beto-advanced-structures-8190)
+  - [🔴 Set 10 — Register, collocation, phrasal, word choice (91–100)](#-set-10--register-collocation-phrasal-word-choice-91100)
+  - [✅ ADVANCED QUIZZES — ANSWER KEY (51–100)](#-advanced-quizzes--answer-key-51100)
+  - [🅰️ §A — LEVEL DIFFERENCES (what your score means)](#-a--level-differences-what-your-score-means)
+  - [🅱️ §B — NATIVE-SPEAKER INSIGHT (on testing)](#-b--native-speaker-insight-on-testing)
+  - [🅲 §C — ALTERNATIVE EXPRESSIONS (talking about results)](#-c--alternative-expressions-talking-about-results)
+  - [🅳 §D — DEEP-ANALYSIS TASKS](#-d--deep-analysis-tasks)
+- **[💪 PRACTICE BLOCK — Chapter 42 (a quick diagnostic)](#-practice-block--chapter-42-a-quick-diagnostic)**
+  - [✅ PRACTICE BLOCK — Answer Key](#-practice-block--answer-key)
+- **[📖 MINI STORY #1 — "The Diagnostic"](#-mini-story-1--the-diagnostic)**
+- **[🧨 EXPANSION PACK — Test-Taking Strategy (E1–E12)](#-expansion-pack--test-taking-strategy-e1e12)**
+  - [🅴1 — DIAGNOSE, don't score (the loop)](#1--diagnose-dont-score-the-loop)
+  - [🅴2 — TRAP types in multiple choice (distractors)](#2--trap-types-in-multiple-choice-distractors)
+  - [🅴3 — TIMING strategy](#3--timing-strategy)
+  - [🅴4 — READING the question stem](#4--reading-the-question-stem)
+  - [🅴5 — ELIMINATION technique](#5--elimination-technique)
+  - [🅴6 — The quiz ERROR LOG](#6--the-quiz-error-log)
+  - [🅴7 — CEFR self-placement](#7--cefr-self-placement)
+  - [🅴8 — IELTS band mapping (Grammatical Range & Accuracy)](#8--ielts-band-mapping-grammatical-range--accuracy)
+  - [🅴9 — Exam-day technique & calm](#9--exam-day-technique--calm)
+  - [🅴10 — Spaced RE-TESTING schedule](#10--spaced-re-testing-schedule)
+  - [🅴11 — Build your OWN quizzes](#11--build-your-own-quizzes)
+  - [🅴12 — 🇦🇿 CONTRASTIVE SYNTHESIS (which traps catch AZ speakers)](#12---contrastive-synthesis-which-traps-catch-az-speakers)
+- **[📚 SECOND CEFR EXAMPLE BANK — a sample question per level](#-second-cefr-example-bank--a-sample-question-per-level)**
+- **[🧪 EXTRA QUIZ — Rapid Fire (15 Questions, 5 minutes)](#-extra-quiz--rapid-fire-15-questions-5-minutes)**
+  - [✅ EXTRA QUIZ — Answer Key](#-extra-quiz--answer-key)
+- **[🗂️ EXAMPLES MEGA-BANK — themed drill sets](#-examples-mega-bank--themed-drill-sets)**
+  - [📦 BLOCK 1 — spot the error](#-block-1--spot-the-error)
+  - [📦 BLOCK 2 — choose the correct form](#-block-2--choose-the-correct-form)
+  - [📦 BLOCK 3 — transformation](#-block-3--transformation)
+  - [📦 BLOCK 4 — tense in context](#-block-4--tense-in-context)
+  - [📦 BLOCK 5 — modal in context](#-block-5--modal-in-context)
+  - [📦 BLOCK 6 — conditional in context](#-block-6--conditional-in-context)
+  - [📦 BLOCK 7 — article & preposition](#-block-7--article--preposition)
+  - [📦 BLOCK 8 — 🇦🇿→EN rapid](#-block-8--en-rapid)
+- **[📝 CHAPTER 42 QUIZ — Final Cumulative Test (30 Questions, timed)](#-chapter-42-quiz--final-cumulative-test-30-questions-timed)**
+  - [✅ CHAPTER 42 QUIZ — Answer Key](#-chapter-42-quiz--answer-key)
+- **[📖 MINI STORY #2 — "Exam Morning"](#-mini-story-2--exam-morning)**
+  - [🏁 End of Chapter 42](#-end-of-chapter-42)
+
+</details>
+
 ## 🧭 THE BIG PICTURE — how to use a quiz to actually improve
 
 ```

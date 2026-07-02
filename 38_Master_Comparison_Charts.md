@@ -22,6 +22,61 @@
 
 ---
 
+<details>
+<summary>📑 <b>On this page</b> — jump to any section (click to expand)</summary>
+
+- [🧭 THE BIG PICTURE — 3 times × 4 aspects = 12 tenses](#-the-big-picture--3-times--4-aspects--12-tenses)
+- [📊 CHART 1 — THE 12 TENSES side by side](#-chart-1--the-12-tenses-side-by-side)
+- [⏰ CHART 2 — THE TIMELINE (where each tense sits)](#-chart-2--the-timeline-where-each-tense-sits)
+- [🔧 CHART 3 — ONE VERB through all 12 tenses (*to work*)](#-chart-3--one-verb-through-all-12-tenses-to-work)
+- [🚦 CHART 4 — MODALS at a glance](#-chart-4--modals-at-a-glance)
+- [🔀 CHART 5 — THE CONDITIONALS](#-chart-5--the-conditionals)
+- [🔑 CHART 6 — SIGNAL WORDS → TENSE (quick lookup)](#-chart-6--signal-words--tense-quick-lookup)
+- [🎯 THE ULTIMATE CHEAT SHEET — "which tense do I need?"](#-the-ultimate-cheat-sheet--which-tense-do-i-need)
+- [⛔ COMMON MISTAKES (the top cross-chapter ones)](#-common-mistakes-the-top-cross-chapter-ones)
+- [🅰️ §A — LEVEL DIFFERENCES (which charts to master when)](#-a--level-differences-which-charts-to-master-when)
+- [🅱️ §B — NATIVE-SPEAKER INSIGHT](#-b--native-speaker-insight)
+- [🅲 §C — ALTERNATIVE EXPRESSIONS (say the time idea another way)](#-c--alternative-expressions-say-the-time-idea-another-way)
+- [🅳 §D — DEEP-ANALYSIS TASKS](#-d--deep-analysis-tasks)
+- **[💪 PRACTICE BLOCK — Chapter 38](#-practice-block--chapter-38)**
+  - [✅ PRACTICE BLOCK — Answer Key](#-practice-block--answer-key)
+- **[📖 MINI STORY #1 — "One Life, Twelve Tenses"](#-mini-story-1--one-life-twelve-tenses)**
+- **[🧨 EXPANSION PACK — Master Charts (E1–E12)](#-expansion-pack--master-charts-e1e12)**
+  - [🅴1 — The 3 × 4 GRID (memorise this shape)](#1--the-3--4-grid-memorise-this-shape)
+  - [🅴2 — What each ASPECT actually adds](#2--what-each-aspect-actually-adds)
+  - [🅴3 — NEGATIVES & QUESTIONS (formation rule)](#3--negatives--questions-formation-rule)
+  - [🅴4 — PASSIVE across the tenses (Ch.26 recap)](#4--passive-across-the-tenses-ch26-recap)
+  - [🅴5 — REPORTED SPEECH backshift (Ch.25 recap)](#5--reported-speech-backshift-ch25-recap)
+  - [🅴6 — WHICH FUTURE? (comparison)](#6--which-future-comparison)
+  - [🅴7 — MODALS: present & past forms](#7--modals-present--past-forms)
+  - [🅴8 — CONDITIONALS + WISH + INVERSION (one chart)](#8--conditionals--wish--inversion-one-chart)
+  - [🅴9 — SPELLING rules (-s, -ing, -ed)](#9--spelling-rules--s--ing--ed)
+  - [🅴10 — IRREGULAR verb patterns (Ch.45 link)](#10--irregular-verb-patterns-ch45-link)
+  - [🅴11 — DECISION TREES (which past / which future)](#11--decision-trees-which-past--which-future)
+  - [🅴12 — 🇦🇿 CONTRASTIVE SYNTHESIS (AZ form → English tenses)](#12---contrastive-synthesis-az-form--english-tenses)
+- **[📚 SECOND CEFR EXAMPLE BANK — one idea across the levels](#-second-cefr-example-bank--one-idea-across-the-levels)**
+- **[🧪 EXTRA QUIZ — Master Charts (15 Questions)](#-extra-quiz--master-charts-15-questions)**
+  - [✅ EXTRA QUIZ — Answer Key](#-extra-quiz--answer-key)
+- **[🗂️ EXAMPLES MEGA-BANK — the 12 tenses in action](#-examples-mega-bank--the-12-tenses-in-action)**
+  - [📦 BLOCK 1 — Present Simple](#-block-1--present-simple)
+  - [📦 BLOCK 2 — Present Continuous](#-block-2--present-continuous)
+  - [📦 BLOCK 3 — Present Perfect (+ Continuous)](#-block-3--present-perfect--continuous)
+  - [📦 BLOCK 4 — Past Simple](#-block-4--past-simple)
+  - [📦 BLOCK 5 — Past Continuous & Past Perfect](#-block-5--past-continuous--past-perfect)
+  - [📦 BLOCK 6 — Future forms](#-block-6--future-forms)
+  - [📦 BLOCK 7 — Modals sampler](#-block-7--modals-sampler)
+  - [📦 BLOCK 8 — Conditionals](#-block-8--conditionals)
+  - [📦 BLOCK 9 — Passive & reported (mixed)](#-block-9--passive--reported-mixed)
+  - [📦 BLOCK 10 — Perfect continuous (all three times)](#-block-10--perfect-continuous-all-three-times)
+  - [📦 BLOCK 11 — ⚡ MINIMAL PAIRS — the key tense contrasts](#-block-11---minimal-pairs--the-key-tense-contrasts)
+  - [📦 BLOCK 12 — 🎬 REAL-LIFE — a mixed paragraph (name each tense)](#-block-12---real-life--a-mixed-paragraph-name-each-tense)
+- **[📝 CHAPTER 38 QUIZ — Master Charts (30 Questions)](#-chapter-38-quiz--master-charts-30-questions)**
+  - [✅ CHAPTER 38 QUIZ — Answer Key](#-chapter-38-quiz--answer-key)
+- **[📖 MINI STORY #2 — "The Time Capsule"](#-mini-story-2--the-time-capsule)**
+  - [🏁 End of Chapter 38](#-end-of-chapter-38)
+
+</details>
+
 ## 🧭 THE BIG PICTURE — 3 times × 4 aspects = 12 tenses
 
 Every English tense is one **time** crossed with one **aspect**. That's the whole system:
