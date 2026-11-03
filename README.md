@@ -1,5 +1,8 @@
 # EnglishBookAi
 
+![Views](https://hits.sh/github.com/RasimAghayev/EnglishBookAi.svg?label=views&color=0e75b6)
+
+
 ## What this is
 
 A complete, standalone English-grammar reference book — **not an application**.
